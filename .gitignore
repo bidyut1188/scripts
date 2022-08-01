@@ -12,6 +12,14 @@
 *.zip
 *.7z
 *.apk
+node_modules/
+bower_componments/
+package-lock.json
+*.ipa
+*.ipsw
+*.dmg
+*.img
+*.iso
 
 ## Cached
 cache/
@@ -25,5 +33,4 @@ install-sh
 missing
 Makefile.in
 Makefile
-
 
