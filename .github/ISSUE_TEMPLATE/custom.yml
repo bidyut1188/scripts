@@ -1,0 +1,26 @@
+name: "Custom issue template"
+description: "Have a custom issue!"
+title: "-> "
+labels: ["help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        To submit a custom issue report, fill the form below.
+  - type: textarea
+    attributes:
+      label: Description
+      description: |
+        A clear and conside of what is!
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional Information
+      description: Please follow.
+      value: |
+        ```
+
+        ```
+    validations:
+      required: true
