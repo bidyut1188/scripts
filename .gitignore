@@ -1,0 +1,36 @@
+## Vim
+*.vim
+*.s[a-w][a-z]
+
+## Other
+*~
+.vscode/
+.vscode
+*.deb
+*.[rt]ar*
+*.[rt]ar
+*.zip
+*.7z
+*.apk
+node_modules/
+bower_componments/
+package-lock.json
+*.ipa
+*.ipsw
+*.dmg
+*.img
+*.iso
+
+## Cached
+cache/
+
+## tools
+config.guess
+config.sub
+configure
+depcomp
+install-sh
+missing
+Makefile.in
+Makefile
+
