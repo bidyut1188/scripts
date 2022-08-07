@@ -4,6 +4,7 @@
 
 ## Other
 *~
+.git/
 .vscode/
 .vscode
 *.deb
@@ -12,8 +13,7 @@
 *.zip
 *.7z
 *.apk
-node_modules/
-bower_componments/
+*.tgz
 package-lock.json
 *.ipa
 *.ipsw
