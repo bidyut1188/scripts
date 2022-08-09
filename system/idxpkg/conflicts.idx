@@ -1,0 +1,105 @@
+libgtest
+libav
+libcurl (<< 7.61.0-1)
+apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+apt (<< 1.4.8-8)
+gnupg2 (<< 2.2.9-1), dirmngr (<< 2.2.17-1)
+make-guile
+dropbear
+openssh
+procps (<< 3.3.15-2)
+flex-dev
+libelf-dev
+binutils
+btfs
+libtool-dev, libtool-static
+nodejs-lts, nodejs-current
+haskell-ghci
+gcc, clang (<< 3.9.1-3)
+ndk-multilib (<< 23b-6)
+libutil-dev, libgcc, libandroid-support-dev
+librhash, rhash-dev
+php-mysql, php-dev
+busybox (<< 1.31.1-11)
+libcurl (<< 7.61.0-1)
+ecj4.6
+asciinema (<< 1.4.0-1)
+nodejs, nodejs-current
+giflib (<< 5.1.4-4)
+gnupg (<< 2.3.3-2)
+libblocksruntime
+findimagedupes
+mesa
+libmesa, ndk-sysroot (<< 23b-6)
+guile18
+guile
+unbound (<< 1.15.0-1)
+htop-legacy
+htop
+mutt (<< 1.8.3-1)
+inetutils (<< 1.9.4-13)
+jupp
+joe
+kbfs
+libexecinfo
+xorriso
+make
+linux-man-pages
+mysql
+mosh (<< 1.3.2-37)
+mosh, mosh-perl
+sc
+ncspot-mpris
+ncspot
+neovim
+newsbeuter
+geth-utils
+x11-proto
+php, php-mysql, php-dev
+php-fpm
+php-pgsql
+qemu-system-x86_64-headless
+rxfetch-termux
+moreutils
+termux-tools (<< 0.51)
+vim-python
+vim
+dialog (<< 1.3-20211214)
+xcbproto
+lfortran
+libllvm-10, clang-10, lld-10
+libsdl2
+libgtk3
+libatk
+xterm
+xorg-fonts-lite
+xorg-fonts-lite
+libgtk2
+libglu
+libsdl
+libsdl-net
+emacs
+libexo
+fontforge
+libgarcon
+pinentry
+libfm-extra
+mpv
+poppler
+qemu-system-aarch64-headless
+qemu-system-arm-headless
+qemu-system-i386-headless
+qemu-system-ppc-headless
+qemu-system-ppc64-headless
+qemu-system-riscv32-headless
+qemu-system-riscv64-headless
+qemu-system-x86_64, qemu-system-x86_64-headless, qemu-system-x86-64-headless
+tigervnc (<< 1.9.0-4)
+transmission
+vim, vim-python, vim-runtime
+vlc
+tshark, wireshark, wireshark-cli
+xfce
+xorg-mkfontdir
+xorg-xvfb
+xclock

@@ -1,0 +1,2214 @@
+readline
+libandroid-support, ncurses
+python
+gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libexpat, libffi, liblzma, libsqlite, ncurses, ncurses-ui-libs, openssl, readline, zlib
+bash, coreutils, ncurses
+libandroid-support, libiconv, ncurses, readline (>= 8.0), termux-tools
+libandroid-support, libgmp, libiconv
+liba52 (= 0.7.4)
+ncurses
+aalib (= 1.4rc5-9)
+libc++, libexpat, libpng, libzopfli, zlib
+zlib
+libc++
+libprotobuf, aapt (= 12.0.0.27-3)
+libc++, zlib
+dvtm
+ncurses
+libandroid-support, ncurses, readline
+Pre-dpkg (>= 1.19.4-3)
+perl
+dash
+googletest, aapt (= 12.0.0.27-3)
+libc++
+ffmpeg
+freetype, game-music-emu, libaom, libandroid-glob, libass, libbluray, libbz2, libdav1d, libgnutls, libiconv, liblzma, libmp3lame, libopus, librav1e, libsoxr, libtheora, libvorbis, libvpx, libvidstab, libwebp, libx264, libx265, libxml2, xvidcore, zlib
+coreutils, libcrypt, ncurses, openssl, openssl-tool
+openssl
+ca-certificates, zlib
+openssl (= 3.0.3)
+ambr, ambs
+amber (= 0.5.9)
+amber (= 0.5.9)
+libc++, libusb, pcre2, googletest, libprotobuf, brotli, zstd, liblz4
+liblzma, zlib
+ncurses
+aria2, curl, ffmpeg, gawk, grep, openssl-tool, sed
+libc++, c-ares, openssl, libxml2, zlib
+libcurl (= 7.84.0)
+libandroid-support, libgmp, libmpfr, readline
+libandroid-support, pcre
+openjdk-17
+freetype, giflib, libandroid-shmem, libandroid-spawn, libiconv, zlib, xorgproto, libx11, libxcursor, libxext, cups, fontconfig, libjpeg-turbo, libpng, libxrender, libxtst, libxrandr, libxt, libxi
+libc++, libaom (= 3.4.0)
+apr, apr-util, pcre, openssl, libcrypt, libandroid-support, libnghttp2, libexpat, libuuid, zlib
+libuuid
+apr, libcrypt, libexpat, libiconv, libuuid
+openssl (>= 3.0.3)
+openjdk-17
+aapt, aapt2, openjdk-17
+apr (= 1.7.0-7)
+apr-util (= 1.6.1-5)
+coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++, libcurl, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib
+bzip2, coreutils, diffutils, gzip, less, libbz2, liblzma, tar, xz-utils, zlib
+libandroid-support
+libassuan, libbz2, libgcrypt, libgpg-error, libnpth, zlib
+libnghttp2, libssh2, openssl (>= 3.0.3), zlib
+libgmp, libnettle, ca-certificates, libidn2, libunistring, unbound
+libassuan, libbz2, libgcrypt, libgnutls, libgpg-error, libksba, libnpth, libsqlite, readline, pinentry, resolv-conf, zlib
+apt, libapt-pkg-perl, libregexp-assemble-perl, perl
+apt, perl
+perl
+libdb, apt (= 2.5.1)
+libc++
+tor, apt (= 2.5.1)
+libevent, openssl, liblzma, zlib, libandroid-glob
+argon2 (= 20190702-1)
+libiconv, liblzma, zlib
+docbook-xsl, libxml2-utils, python, xsltproc
+docbook-xml, libxml2-utils, xsltproc
+libxml2 (= 2.9.14)
+libxslt (= 1.1.35)
+libgc, ncurses, openssl, zlib
+ruby
+libandroid-support, libffi, libgmp, readline, openssl, libyaml, zlib
+python, ncurses-utils
+ncurses (= 6.3-2)
+libc++
+aspell
+aspell
+aspell
+aspell
+aspell (= 0.60.8-2)
+boost, zlib
+libc++, libbz2, libiconv, liblzma, zlib
+assimp (= 5.0.1-6)
+libdvbcsa, liblua53
+libc++, libtirpc, ncurses, readline, zlib
+runit, coreutils
+libc++, zlib
+zlib
+perl
+zlib
+libc++, zlib
+libbz2 (= 1.0.8-6)
+tar
+liblzo
+libc++
+libc++, libiconv
+libandroid-glob, libiconv
+libandroid-support, libc++
+libandroid-support, libbz2
+libbz2
+bash
+attr (= 2.5.1)
+ffmpeg, libsamplerate, libsndfile
+libflac, libogg, libopus, libvorbis
+aubio (= 0.4.9)
+m4, make, perl
+m4, make, perl
+autoconf
+openssh | dropbear
+krb5, ldns, libandroid-support, libedit, openssh-sftp-server, openssl, termux-auth, zlib
+termux-auth, zlib
+dbus, glib, libandroid-glob, libcap, libdaemon, libevent, libexpat
+libexpat, libx11
+libffi, libiconv, pcre, libandroid-support, zlib
+attr
+avahi (= 0.8-4)
+aalib (>> 1.4rc5-8)
+bash, bc, imagemagick, inotify-tools, termux-api
+readline, flex
+fftw, fontconfig, freetype, fribidi, glib, harfbuzz, libandroid-support, libbz2, libcairo, libffi, libgraphite, libheif, libjpeg-turbo, libjxl, liblzma, libpixman, libpng, librsvg, libtiff, libuuid, libwebp, libx11, libxau, libxcb, libxdmcp, libxext, libxml2, littlecms, openjpeg, pango, pcre, zlib, zstd
+bash, util-linux
+openssl
+littlecms
+openssl
+bacula-fd (= 11.0.5-3)
+bzip2, coreutils, curl, dash, diffutils, findutils, gawk, grep, gzip, less, procps, psmisc, sed, tar, termux-am, termux-am-socket (>= 1.5.0), termux-exec, util-linux, xz-utils, dialog
+libc++, ncurses
+less, libgit2
+ncurses, pcre2
+libssh2, openssl, pcre, zlib
+m4
+openjdk-17
+dash, termux-tools
+libelf, zlib
+libandroid-support, zlib, libcurl
+libcrypt
+perl (>> 5.34.0-3), libxslt, libxml2 (>> 2.9.10-3), openssl-tool, make, clang, pkg-config
+libxml2, libgcrypt, libgpg-error, zlib
+libcompiler-rt, lld, llvm, ndk-sysroot, libllvm (= 14.0.6)
+glib
+libc++, libexpat, libgcrypt, libiconv, libidn, libsqlite, libuuid
+libgpg-error
+libiconv
+zlib
+binutils (= 2.38)
+lld, llvm
+libllvm (= 14.0.6)
+libllvm (= 14.0.6)
+m4
+bison (= 3.8.2-2)
+ca-certificates, glib, libgcrypt, libgnutls
+gnupg
+libcurl, libiconv, less, openssl, pcre2, zlib
+apr, apr-util, serf, libexpat, libsqlite, liblz4, utf8proc, zlib
+libsqlite, readline
+libconfuse, libnl, ncurses
+libandroid-shmem, libc++, libcurl, openssl, zlib
+glib, libandroid-support, libexpat, ncurses, ncurses-ui-libs, openssl
+ncurses (= 6.3-2)
+boost (= 1.78.0-1)
+boost (= 1.78.0-1)
+libacl, liblz4, openssl, python, xxhash, zstd
+attr
+libedit
+libandroid-support, ncurses
+brainfuck (= 20201105)
+ncurses
+libgit2
+brotli (= 1.0.9-1)
+ncurses
+libarchive (= 3.6.1)
+libbz2, libiconv, liblzma, libxml2, openssl, zlib
+clang, make, pkg-config
+libarchive, libc++, libcurl, libexpat, jsoncpp, libuv, rhash, zlib
+libc++
+bash, grep, sed, libltdl
+clang
+libc++, openssl, c-ares, libicu, zlib
+libc++
+libtalloc
+libc++, clang, openssl, lld, zlib, libllvm
+ncurses
+gawk, tmux
+ncurses, libevent, libandroid-support, libandroid-glob
+bash
+libmsgpack, libsodium, libopus, libvpx
+libc++
+c-toxcore (= 0.2.18)
+ca-certificates (= 1:2022.07.19)
+ghc-libs, haskell-edit-distance, haskell-zlib, haskell-http, haskell-network-uri, haskell-regex-base, haskell-async, haskell-lukko, haskell-cabal, haskell-resolv, haskell-echo, haskell-random, haskell-hashable, haskell-cryptohash-sha256, haskell-tar, haskell-base16-bytestring, haskell-hackage-security, haskell-regex-posix
+iconv, libffi, ncurses, libgmp, libandroid-posix-semaphore
+ghc-libs, haskell-random
+ghc-libs
+ghc-libs, haskell-network-uri, haskell-network
+ghc-libs, haskell-th-compat
+ghc-libs
+ghc-libs, haskell-hashable
+ghc-libs
+ghc-libs
+ghc-libs, haskell-base16-bytestring
+ghc-libs
+ghc-libs, haskell-splitmix
+ghc-libs
+ghc-libs
+ghc-libs
+ghc-libs
+ghc-libs, haskell-zlib, haskell-ed25519, haskell-network-uri, haskell-lukko, haskell-network, haskell-cabal, haskell-base64-bytestring, haskell-tar, haskell-cryptohash-sha256, haskell-base16-bytestring, haskell-cabal-syntax
+ghc-libs, haskell-regex-base
+binutils, llvm, clang, ghc-libs (= 8.10.7-3)
+libneon
+libxml2, openssl, zlib
+ncurses, ncurses-ui-libs, readline
+libandroid-support, ncurses
+python, calcurse (= 4.8.0)
+capnproto (= 0.9.1)
+capstone (= 4.0.2-2)
+libandroid-glob
+libandroid-support, libretls, ncurses, openssl
+openssl
+fftw, libiniparser, ncurses, pulseaudio
+libandroid-glob, libc++, libltdl, libsndfile, libsoxr, libwebrtc-audio-processing, speexdsp
+libandroid-support, ncurses
+libandroid-support, libandroid-glob, gnuchess, ncurses, ncurses-ui-libs
+libc++, ncurses, readline
+zlib, zstd
+libc++
+freetype, gpac, libiconv, libmd, libpng, libprotobuf-c, utf8proc
+libbz2, libpng, zlib
+ffmpeg, freetype, liba52, libjpeg-turbo, liblzma, libmad, libnghttp2, libpng, libtheora, libvorbis, openjpeg, openssl, pulseaudio, xvidcore, zlib
+libc++, libprotobuf, protobuf
+libllvm
+libc++, ncurses, libffi, zlib, libxml2
+libcrypt
+libcec (= 6.0.2)
+libc++, libp8-platform
+liblmdb, openssl, libandroid-glob, pcre, libyaml, libxml2
+cfengine (= 1:3.18.0-6)
+boost, libc++, libgmp, libmpfr, zlib
+libc++
+libgmp
+libc++, ncurses, readline, gdb
+libc++, liblzma, libexpat, readline, ncurses, libmpfr, python, zlib
+imagemagick
+chafa (= 1.8.0-1)
+libtool, pkg-config, texinfo
+libiconv, ncurses, perl, gawk
+check (= 0.15.2-2)
+chicken (= 5.3.0)
+ffmpeg
+zlib
+libcrypt
+json-c, libandroid-support, libbz2, libc++, libcurl, libltdl, liblzma, libxml2, openssl, pcre2, zlib
+clamav (= 0.103.6)
+libllvm (= 14.0.6)
+glib, pulseaudio
+ocl-icd
+libc++, ocl-icd
+libc++
+libc++
+openssl
+ncurses-ui-libs, cmake (= 3.23.2-1)
+cmark (= 0.30.2)
+ncurses
+libandroid-support, libiconv, ncurses, pulseaudio, ffmpeg, libmad, opusfile, libflac, libvorbis
+libopus, libogg
+libc++, libogg
+libogg
+libcurl
+cryptopp, fftw, libgmp
+libc++
+libc++, libcoinor-osi, libcoinor-utils
+libc++, libcoinor-utils
+libc++
+coinor-clp (= 2022.01.01)
+perl
+php
+freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, zlib, libicu, libffi, tidy, zstd
+swift
+clang, libandroid-glob, libandroid-posix-semaphore, libandroid-spawn, libcurl, libicu, libicu-static, libsqlite, libuuid, libxml2, libdispatch, llbuild
+bash, findutils
+openssh
+perl
+ncurses, zlib
+dash
+libandroid-support, libandroid-glob, ncurses
+openssl-1.1
+ca-certificates, zlib
+libc++, libcurl, ncurses-ui-libs, openssl
+ncurses
+libandroid-support, ncurses
+libiconv, libjansson, liblzma, libxml2, libyaml
+bash, libelf, libdw, libffi, zlib
+libblocksruntime, zstd, liblzma, libbz2, libelf (= 0.187)
+libc++, libiconv, libcrypt
+cups (= 2.3.3-9)
+libc++, ncurses
+zlib, libandroid-support
+openjdk-17
+attr, libbz2, libgcrypt, liblzma, liblzo, zlib
+dar (= 2.7.2-1)
+gzip, tar
+libdb (= 18.1.40-3)
+libandroid-shmem, libandroid-support, libxcb
+dbus (= 1.14.0)
+littlecms, libjasper, libjpeg-turbo
+libjpeg-turbo
+libc++
+perl, proot, wget
+libiconv, pcre2, openssl, libuuid, libandroid-support, zlib
+golang, git
+libffi
+libpng, zlib
+dgsh (= 1.0.0)
+libandroid-support, ncurses
+dialog (= 1.3-20220526-0)
+libmaa, zlib
+libiconv
+libcurl
+libandroid-glob
+libpopt
+libandroid-glob
+libc++, libtiff
+libc++, libjpeg-turbo, liblzma, zlib, zstd
+djvulibre (= 3.5.28-3)
+imagemagick, libdmtx
+libpcap, ncurses
+openssl, readline, resolv-conf, zlib, libuv
+dnsutils (= 9.16.27)
+libxml2-utils
+libc++
+docopt (= 0.6.3-2)
+openssl-1.1, resolv-conf
+ncurses, glib, pcre, curl
+libandroid-support
+libiconv
+dotconf (= 1.3)
+libc++, libiconv
+liblzma (= 5.2.5-1)
+perl, clang, make, dpkg (= 1.21.9)
+dpkg-perl, dpkg (= 1.21.9)
+openssl
+libandroid-support, openssl
+libandroid-support, libandroid-glob, libiconv
+leveldb, ncurses
+libc++
+libduckdb (= 0.4.0)
+libc++
+libduktape (= 2.6.0-1)
+fontconfig, freetype, fribidi, graphicsmagick, libdvdread, libpng, libxml2
+freetype, libxml2, libpng, libuuid, ttf-dejavu, zlib
+glib
+libwebp, littlecms, libc++, libtiff, freetype, libjasper, libjpeg-turbo, libpng, libbz2, libxml2, liblzma, zstd, zlib
+argp, libdw, zlib
+libyaml, openssl
+libuuid, util-linux
+ncurses, libcap-ng, zlib
+libandroid-support, libgmp, libgc, libffi
+libandroid-glob, libcurl, pcre2, readline, tidy
+libxslt
+electric-fence (= 2.2.6)
+python, libsecp256k1
+libasm, libdw, libdebuginfod, libmicrohttpd, libsqlite, libarchive, libelf (= 0.187)
+libdw, libelf (= 0.187)
+libelf (= 0.187)
+libgnutls
+libexpat, libiconv, libidn, openssl, libbz2, zlib
+dash, erlang
+openssl, ncurses, zlib
+ncurses, gnutls, libxml2, libjansson
+libgnutls (= 3.7.6)
+libc++, emscripten (= 3.1.18)
+libc++, emscripten (= 3.1.18)
+libc++, openssl-1.1, c-ares, libicu, zlib
+emscripten (= 3.1.18)
+gsl, libandroid-glob, libc++, libtiff, libvigra, littlecms
+libc++, libhdf5, libjpeg-turbo, libpng, libtiff, openexr2, zlib
+aspell, glib, hunspell, libc++
+libc++, libiconv, ncurses, readline, hunspell-en-us
+enchant (= 2.3.3-1)
+cups, perl
+pcaudiolib
+pulseaudio
+espeak (= 1.51)
+libc++, protobuf, libsodium, openssl
+libprotobuf (= 2:3.19.3)
+zlib, libgit2
+perl
+libandroid-support, libc++, libexpat, zlib
+exiv2 (= 2:0.27.5)
+tcl
+zlib
+libc++
+fakeroot (= 1.25.3)
+libfdk-aac
+libandroid-glob, libtdb, openssl, pcre, zlib
+libbsd
+android-tools
+ncurses, pcre2
+libcrypt, openssl
+libandroid-shmem, libc++
+fex (= 2207)
+libc++, zlib
+fontconfig, fribidi, glib, harfbuzz
+fontconfig, freetype, libudfread, libxml2
+libogg, libvorbis
+giflib, libjpeg-turbo, libpng, libtiff
+libc++
+openssl
+fftw (= 3.3.10-3)
+file (= 5.42)
+libiconv, libgnt, libgnutls, libsasl, libxml2, ncurses-ui-libs, glib
+glib, libxml2, ncurses
+finch (= 2.14.9)
+libc++, ncurses, libandroid-support, ncurses-utils, man, bc, pcre2, libandroid-spawn
+less, libandroid-glob, zlib
+libflac (= 1.3.4)
+libc++
+flatbuffers (= 2.0.0-2)
+flex (= 2.6.4-3)
+fontconfig (= 2.14.0)
+libpng, fontconfig (= 2.14.0)
+libforestdb (= 1.2)
+libsnappy
+libsqlite, openssl, zlib
+freeimage (= 3.18.0-5)
+freetype (= 2.12.1)
+libc++, libcairo
+fontconfig, freetype, glib, liblzo, libpixman, libpng, libx11, libxcb, libxext, libxrender, zlib
+fribidi (= 1.0.12)
+libc++, ncurses, libcurl
+ncurses
+ncurses, dialog, curl
+frpc, frps
+libc++, ncurses
+gpgme
+gnupg (>= 2.2.9-1), libassuan, libgpg-error
+fwknop (= 2.6.10-3)
+readline, libgmp, zlib
+gap (= 4.11.1-1)
+libcrypt, libiconv, openssl, zlib
+binutils, ca-certificates, gdbm, libcrypt, libiconv, mbedtls, zlib
+readline
+gauche (= 0.9.11-1)
+gawk (= 5.1.1-1)
+ncurses
+libc++, openjpeg, libcurl, libtiff, libpng, proj, libiconv, libsqlite, libgeos, libspatialite, libexpat, openssl, postgresql, netcdf-c, libjxl
+libc++, libsqlite, sqlite, libtiff, libcurl
+libc++
+libgeos, proj, libfreexl, libsqlite, libxml2, librttopo
+openssl, libcrypt, readline, libandroid-shmem, libuuid, libxml2, libicu, zlib
+libcurl, openssl, libnghttp2
+brotli
+gdal (= 3.4.2)
+gdbm (= 1.23)
+glib, libpng, libtiff, libjpeg-turbo, zstd
+bash, curl
+libandroid-support, libc++, ffmpeg, babl, json-glib, libjpeg-turbo, libpng, libjasper, littlecms, libtiff, librsvg, zlib
+glib
+fontconfig, freetype, gdk-pixbuf, glib, harfbuzz, libcairo, libpng, libxml2, pango, zlib
+libc++
+geth (= 1.10.21)
+libc++, libiconv, pcre, liblzma, libxml2, libcroco, ncurses, libunistring, zlib
+glib, liblzma, libxml2
+libandroid-support, libiconv
+gettext (= 0.21-5)
+exiv2, glib, libc++
+libc++
+gflags (= 2.2.2-8)
+libiconv (= 1.16-3)
+ghc-libs (= 8.10.7-3)
+fontconfig, libandroid-support, libiconv, libtiff, libjpeg-turbo, libpng, libexpat, freetype, libidn, littlecms, openjpeg, zstd
+giflib (= 5.2.1-2)
+giflib (= 5.2.1-2)
+git, libc++, openssl-1.1
+git, zlib
+tk, git (= 2.37.1)
+fontconfig, libx11, libxft, libxss, tcl
+tk, git (= 2.37.1)
+git
+subversion-perl, git (= 2.37.1)
+perl, subversion (= 1.14.2-1)
+dash, git
+dash, git
+git, zlib, openssl
+libandroid-support
+python, glib (= 2.72.2)
+glib, libgnutls
+coreutils, ncurses, libltdl
+global (= 6.6.8)
+libgmp
+glpk (= 5.0-1)
+libc++
+ncurses
+libc++, libcurl, fftw, libpng, libjpeg-turbo, libtiff, zlib
+graphicsmagick, libc++, libcurl, fftw, libpng, libjpeg-turbo, libtiff, zlib
+libc++, libandroid-spawn
+libc++, readline
+json-c, libgmp, libvbisam, libxml2, ncurses
+gnucobol (= 3.1.2-1)
+ncurses, readline
+ncurses
+gnurl, libgcrypt, libgmp, libidn, libjansson, libltdl, libmicrohttpd, libsqlite, libunistring, libsodium
+libgnutls, libnghttp2
+gnunet (= 0.16.1-2)
+libgpg-error
+libgpg-error
+libandroid-support, libassuan, libiconv, ncurses
+libgcrypt, libksba, libgpg-error, libassuan, libnpth, libusb, gnupg (= 2.3.7)
+libandroid-support, libgd, libiconv, libx11, pango, readline
+freetype, fontconfig, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, zlib
+fontconfig, fribidi, glib, harfbuzz, libcairo, libxft, zlib
+gnurl (= 7.72.0)
+ncurses
+ncurses
+libobjc2
+libc++
+file, libc++, libheif, libjpeg-turbo, libpng, libtiff
+libaom, libc++, libdav1d, librav1e, libde265, libx265
+ncurses, openssl
+dash, git
+golang (= 3:1.18.3)
+libolm
+bash, curl
+gflags, libc++
+libc++
+git, gnupg
+ncurses
+gpac (= 2.0.0-2)
+gpgme (= 1.17.1)
+gpgme (= 1.17.1)
+gpgmepp, gpgme (= 1.17.1)
+libexpat
+openjdk-17
+graphicsmagick (= 1.3.38)
+libandroid-glob, libc++, libcairo, pango, libexpat, libltdl, librsvg, libgd, zlib
+graphviz (= 2.44.1-4)
+ncurses
+libc++, perl, man
+libjansi, openjdk-17
+libgsf (= 1.14.49)
+glib, libbz2, libxml2, zlib
+gsl (= 2.7.1)
+python, ffmpeg, gstreamer, gst-plugins-base
+glib
+gstreamer, libandroid-shmem, libjpeg-turbo, libopus, libpng, libvorbis, zlib
+gst-plugins-base, libbz2, libcurl, libiconv, libpng, librsvg, libssh2, libsndfile, libx264, libx265, littlecms, openal-soft, openjpeg
+openssl, zlib
+gst-plugins-base (= 1.20.3)
+libandroid-shmem, libc++, libexpat, libx11, libxext, ncurses, zlib, zstd
+gst-plugins-base, libandroid-shmem, libcaca, libsoup, libjpeg-turbo, libpng, libflac, libbz2, libvpx, pulseaudio, libmp3lame, gstreamer, libogg, zlib
+imlib2, libc++, ncurses, zlib
+glib, libpsl, libsqlite, libxml2, brotli
+gst-plugins-base, libx264
+libandroid-support, libiconv, ncurses
+libandroid-support, libffi, libgc, libgmp, libltdl, libunistring
+libcrypt, libgmp, libltdl, ncurses, readline
+guile (= 2.2.7-3)
+guile18 (= 1.8.8-15)
+gumbo-parser (= 0.10.1)
+liblua53, openssl, pcre, zlib
+freetype, glib, libbz2, libc++, libpng, libgraphite
+libc++
+libicu, harfbuzz (= 5.1.0)
+libc++
+libcairo, fontconfig, liblzma, libpixman, libxml2, harfbuzz (= 5.1.0)
+bash
+ca-certificates, gnupg, openssh, python, pyunbound, swig
+python, unbound (= 1.15.0-1)
+libc++, pcre, zlib
+libc++
+ghc-libs, haskell-semialign, haskell-dlist, haskell-attoparsec, haskell-strict, haskell-time-compat, haskell-unordered-containers, haskell-quickcheck, haskell-onetuple, haskell-tagged, haskell-th-abstraction, haskell-indexed-traversable, haskell-vector, haskell-data-fix, haskell-primitive, haskell-base-compat-batteries, haskell-scientific, haskell-uuid-types, haskell-witherable, haskell-hashable, haskell-these, haskell-text-short
+ghc-libs, haskell-vector, haskell-semigroupoids, haskell-tagged, haskell-hashable, haskell-these, haskell-indexed-traversable-instances, haskell-indexed-traversable, haskell-unordered-containers
+ghc-libs
+ghc-libs, haskell-scientific
+ghc-libs, haskell-these, haskell-hashable, haskell-assoc
+ghc-libs, haskell-base-orphans, haskell-hashable
+ghc-libs, haskell-hashable
+ghc-libs, haskell-splitmix, haskell-random
+ghc-libs, haskell-base-orphans, haskell-hashable
+ghc-libs
+ghc-libs
+ghc-libs
+ghc-libs, haskell-primitive
+ghc-libs, haskell-hashable
+ghc-libs
+ghc-libs, haskell-base-compat, haskell-onetuple
+ghc-libs, haskell-hashable, haskell-integer-logarithms, haskell-primitive
+ghc-libs, haskell-random, haskell-hashable
+ghc-libs, haskell-vector, haskell-hashable, haskell-base-orphans, haskell-indexed-traversable-instances, haskell-indexed-traversable, haskell-unordered-containers
+ghc-libs, haskell-hashable, haskell-assoc
+ghc-libs, haskell-hashable
+ghc-libs, haskell-tagged, haskell-bifunctors
+ghc-libs, haskell-base-orphans, haskell-comonad, haskell-th-abstraction, haskell-tagged
+ghc-libs
+ghc-libs
+ghc-libs
+ghc-libs, haskell-tagged, haskell-distributive, haskell-transformers-compat, haskell-indexed-traversable
+ghc-libs, haskell-cabal
+ghc-libs, haskell-base-orphans, haskell-tagged
+ghc-libs
+ghc-libs, haskell-statevar
+ghc-libs
+ghc-libs
+ghc-libs
+ghc-libs
+ghc-libs, haskell-vector, haskell-onetuple, haskell-tagged, haskell-indexed-traversable, haskell-unordered-containers
+ghc-libs
+ghc-libs
+ghc-libs
+ghc-libs, haskell-regex-base
+ghc-libs, haskell-distributive, haskell-tagged, haskell-hashable, haskell-contravariant, haskell-transformers-compat, haskell-bifunctors, haskell-base-orphans, haskell-comonad, haskell-unordered-containers
+libiconv
+perl
+ncurses
+ncurses
+libandroid-support
+ffmpeg, freetype, gflags, google-glog, libjpeg-turbo, libpng, ncurses
+libcurl, libimtui (= 1.0.5)
+libc++, ncurses
+hoedown (= 3.0.7-3)
+bmon, byobu, cmatrix, coreutils, dash, gawk, htop, man, tree, util-linux
+libandroid-support, ncurses
+libandroid-support
+bash
+libcurl, libidn2
+libunistring, libandroid-support
+libc++, libiconv
+ncurses, libandroid-support
+fftw, libandroid-support, ncurses, openssl
+libiconv, openssl, zlib
+httrack (= 3.49.2-10)
+git
+libc++
+hunspell (= 1.7.0-6)
+boost, miniupnpc, openssl, zlib
+i2pd (= 2.42.1)
+libcurl, libgnutls, libogg, libvorbis, libxml2, libxslt, mime-support, openssl
+libpng, perl
+libicu (= 71.1)
+libc++, libiconv, zlib
+id3lib (= 3.8.3-1)
+file, libc++, taglib
+libc++, zlib
+id3lib, libc++, zlib
+libxau, libxdmcp
+libx11, libxau, libxcb, libxdmcp
+imagemagick (= 7.1.0.43)
+gegl, libsoup, zlib
+freetype, giflib, libandroid-shmem, libbz2, libid3tag, libjpeg-turbo, libpng, libtiff, libxext, zlib
+zlib
+imlib2 (= 1.9.1)
+libandroid-support
+readline
+libcrypt, libiconv, libidn2
+libc++, boost, liblzma, libiconv
+inotify-tools (= 3.22.6.0)
+perl, clang, make, libexpat
+perl
+perl
+openssl
+iperf3 (= 3.11)
+ncurses, openssl, readline
+libandroid-glob, libandroid-support
+openssl, perl
+libpcap
+libcrypt, resolv-conf, zlib
+glib, libandroid-glob, libiconv, libotr, ncurses, openssl, perl, utf8proc
+libgcrypt
+openssl, zlib
+libbz2, libc++, readline, zlib
+iverilog (= 11.0)
+clang, python
+libpng
+jbig2dec (= 0.19-1)
+giflib, leptonica, libc++, libjpeg-turbo, libpng, libtiff, libwebp, python, zlib
+giflib, libjpeg-turbo, libpng, libtiff, libwebp, openjpeg, zlib
+jbig2enc (= 2019.09.08)
+jcal (= 0.4.1)
+libcurl, yajl, mpv
+ffmpeg, libandroid-glob, libandroid-support, libarchive, libcaca, libiconv, liblua52, pulseaudio, openal-soft, zlib
+libbz2, libc++, libdb, wget, zlib
+ncurses
+ncurses
+ncurses, ncurses-utils
+libcurl, libjpeg-turbo, libpng, ncurses
+libjpeg-turbo
+oniguruma
+jq (= 1.6-3)
+json-c (= 0.16-1)
+jsoncpp (= 1.9.5)
+ghostscript, leptonica, libjasper, libjpeg-turbo, libpng, zlib
+libc++
+kcptun-client, kcptun-server
+dash, gnupg
+libc++
+libpcap
+openjdk-17
+fmt, libc++, libcurl, libmsgpack-cxx, libre2, libuber-h3, libucontext, libyaml-cpp, openssl-1.1, pcre, zstd
+boost
+libc++
+libc++
+kphp (= 2021.12.30-1)
+libandroid-support, libandroid-glob, libresolv-wrapper, readline, openssl-1.1, libdb
+libc++, libsndfile
+ncurses, libmp3lame (= 3.100-4)
+libcurl, libxml2, openssl, pinentry
+readline, pcre2
+latino (= 1.3.1)
+coreutils, lesspipe, ncurses
+less
+binutils, clang, libc++, libcurl, zlib
+openssl-1.1
+ldns (= 1.8.1-1)
+boost, libc++, libedit, libmpfr, libgmp, python
+leptonica (= 1.82.0-1)
+ncurses, gettext
+clang, libc++, libkokkos, zlib
+libc++
+libandroid-support, libc++, libexpat, libiconv, openssl, readline, libidn2, zlib
+lftp (= 4.9.2-4)
+boost, jsoncpp, libc++, libcurl, libhtmlcxx, libtinyxml2, rhash
+libc++, iconv
+libc++
+lhasa (= 0.3.1-6)
+liba52 (= 0.7.4)
+libacl (= 2.3.1)
+libandroid-execinfo (= 0.1)
+libandroid-glob (= 0.6-2)
+libandroid-posix-semaphore (= 0.1-3)
+libandroid-shmem (= 0.4)
+libandroid-spawn (= 0.3)
+libandroid-support (= 28-2)
+libandroid-sysv-semaphore (= 0.1)
+libandroid-wordexp (= 0.1)
+pulseaudio
+libao (= 1.2.2-6)
+libaom (= 3.4.0)
+libarchive (= 3.6.1)
+libc++, libre2, utf8proc
+libarrow-cpp (= 7.0.0)
+python, libarrow-cpp (= 8.0.1-1)
+libasm, libelf (= 0.187)
+libass (= 0.16.0)
+libassuan (= 2.5.5)
+libatomic-ops (= 7.6.12)
+openjdk-17
+libbluray (= 1.3.1)
+libbluray (= 1.3.1)
+libc++, libsndfile
+libbs2b (= 3.1.0)
+libmd
+libbsd (= 0.11.6)
+libburn (= 1.5.4-3)
+libcrypt, openssl
+libc-client (= 2007f-2)
+libcaca (= 0.99.beta20)
+libx11
+libcairo (= 1.16.0-9)
+libc++, libcairo, libsigc++-2.0
+libc++
+libc++, libcairo, libsigc++-3.0
+libc++
+libcap-ng (= 2:0.8.3)
+libcap (= 2.64)
+libiconv
+libcddb (= 1.3.2)
+ncurses
+libc++
+libc++, libgmp
+libcln (= 1.3.6-3)
+openssl
+libcoap (= 4.3.0-2)
+libcoinor-osi (= 2022.01.01)
+libcoinor-utils (= 2022.01.03)
+openjdk-17
+libc++
+libconfig (= 1.7.3-1)
+libconfuse (= 3.3)
+libcpufeatures (= 0.7.0)
+libcroco (= 0.6.13-7)
+libcunit (= 2.1.3)
+libcurl (= 7.84.0)
+libzmq, libsodium, liblz4, libuuid
+libc++, libsodium
+libczmq (= 4.2.1-1)
+libdaemon (= 0.14)
+libdb (= 18.1.40-3)
+libc++
+libde265 (= 1.0.8-3)
+libc++, libjasper, libjpeg-turbo, libpng, libtiff
+libc++, libblocksruntime
+libdmtx (= 0.7.5)
+avahi (= 0.8-4)
+libdns-sd, avahi (= 0.8-4)
+libduckdb (= 0.4.0)
+libdvbcsa (= 1.1.0-2)
+libdvbpsi (= 1.3.3)
+libdvdread (= 6.1.2)
+libdw, libelf (= 0.187)
+libedit (= 20210910-3.1-0)
+libelf (= 0.187)
+libev (= 4.33-1)
+libexecinfo (= 1.1)
+libexif (= 0.6.24)
+libexpat (= 2.4.8)
+libfdk-aac (= 2.0.2-3)
+libffi (= 3.4.2)
+libc++, ncurses
+libfinalcut (= 0.8.0)
+libflac (= 1.3.4)
+libc++, liblz4
+libflann (= 2019.04.06)
+libiconv
+libfreexl (= 1.0.6-1)
+libc++
+libgc (= 8.0.6)
+libgcrypt (= 1.10.1)
+libgd (= 1:2.3.3)
+libgfshare (= 2.0.0-7)
+glib, libc++, libsigc++-2.0
+glib, libc++, libsigc++-3.0
+libandroid-glob, libc++
+glib, libffi, libiconv, libidn2, zlib
+libgmime (= 3.2.7-4)
+libgmp (= 6.2.1-1)
+gnustep-make, libc++, libffi, libgmp, libgnutls, libiconv, libicu, libxml2, libxslt, zlib
+libgmp
+libevent, libexpat, libnghttp2, openssl
+libgnutls (= 3.7.6)
+libgpg-error (= 1.45)
+ca-certificates, libc++, libre2, openssl, protobuf, c-ares, zlib
+libidn
+libgsasl (= 1.10.0)
+libgsf (= 1.14.49)
+libc++, libzopfli, zlib
+libhdf5 (= 1.12.0-5)
+libjpeg-turbo, libpng, libheif (= 1.12.0-5)
+libheif (= 1.12.0-5)
+libhtmlcxx (= 0.87-1)
+libhyphen (= 2.8.8)
+libc++, libicu, libxml2
+libice (= 1.0.10-15)
+libiconv (= 1.16-3)
+libicu (= 71.1)
+libid3tag (= 0.15.1b-3)
+libidn (= 1.38)
+libidn2 (= 2.3.2)
+libimagequant (= 2.17.0)
+usbmuxd, libusbmuxd, openssl
+libusb, libplist
+libusb, libplist, usbmuxd
+libimobiledevice (= 1.3.0-3)
+libiodbc (= 3.52.15)
+libgmp
+libisl (= 0.24)
+libburn, libisofs, readline
+libiconv, zlib
+libiconv, libandroid-support, readline, libbz2, zlib
+libisoburn (= 1.5.4-3)
+libisofs (= 1.5.4-3)
+libjansson (= 2.14)
+libjasper (= 3.0.6)
+libjpeg-turbo (= 2.1.3)
+libjpeg-turbo (= 2.1.3)
+giflib, libjpeg-turbo, libpng, libwebp, libandroid-spawn, libjxl (= 0.6.1-1)
+libjxl (= 0.6.1-1)
+libksba (= 1.6.0)
+zlib
+liblightning (= 2.1.3)
+fftw
+libliquid-dsp (= 1.3.2)
+libllvm (= 14.0.6)
+liblmdb (= 0.9.29)
+liblo (= 0.31)
+libexpat
+liblog4c (= 1.2.4)
+libraptor2
+libcurl, libicu, libxml2, libxslt, yajl
+liblrdf (= 0.6.1)
+liblua51 (= 5.1.5)
+liblua52 (= 5.2.4-8)
+liblua53 (= 5.3.5-10)
+liblua54 (= 5.4.4)
+libluajit (= 1:2.1.0-beta3-3)
+liblz4 (= 1.9.3)
+liblzma (= 5.2.5-1)
+liblzo (= 2.10-3)
+libmaa (= 1.3.2-2)
+libmad (= 0.15.1b-3)
+libc++, openssl, zlib
+libebml
+libmaxminddb (= 1.6.0)
+geoip2-database, libmaxminddb (= 1.6.0)
+libmcrypt (= 2.5.8-3)
+libmd (= 1.0.4)
+libc++
+libc++, libcurl, libzen, zlib
+libandroid-glob, libandroid-support, libc++
+libmediainfo (= 22.03)
+openssl, libexpat
+libmesode (= 0.10.1-3)
+libmhash (= 0.9.9.9-2)
+libmicrohttpd (= 0.9.73-1)
+libmnl (= 1.0.5)
+libc++
+libmodplug (= 0.8.9.0)
+c-ares, libc++, libcap, libwebsockets, openssl
+openssl, libcap, libuv, zlib
+libmp3lame (= 3.100-4)
+libflac, libid3tag, libltdl, libmad, libogg, libvorbis, pcre
+libmp3splt (= 0.9.2-7)
+libgmp, libmpfr
+libmpc (= 1.2.1-1)
+libmpfr (= 4.1.0-1)
+libmsgpack (= 4.0.0)
+libc++
+libc++, libneon, libxml2
+glib, json-c
+libmypaint (= 1.6.1)
+libprotobuf-c, openssl
+libnats-c (= 3.3.0)
+libneon (= 0.32.2-2)
+libnet (= 1.2-1)
+libnettle (= 3.7.3)
+libandroid-support, libpopt, slang
+libiconv, libpng, pcre, oniguruma, zlib
+libnewt (= 0.52.21)
+libnfc (= 1.8.0)
+libnfs (= 4.0.0-3)
+libmnl
+libnftnl (= 1.2.2)
+libnghttp2 (= 1.48.0)
+libnl (= 3.7.0)
+libnpth (= 1.6-1)
+libnspr (= 4.33)
+libnspr, libsqlite, zlib
+libnss (= 3.78-1)
+libgmp
+libntl (= 11.5.1)
+libogg (= 1.3.5)
+libogg
+liboggz (= 1.1.1-5)
+libc++, marisa
+libopencore-amr (= 0.1.5)
+libflac, mpg123, pulseaudio
+pulseaudio
+libopenmpt (= 0.5.12-3)
+libopus (= 1.3.1-5)
+libopus
+libopusenc (= 0.2.1-3)
+libprotobuf, libosmpbf, libprotozero, libexpat, zlib, libbz2, boost, gdal, proj, liblz4
+libprotobuf
+libosmpbf (= 1.5.0-1)
+libotr (= 4.1.1-2)
+libp8-platform (= 2.1.0.1)
+glib, libc++, libcairomm-1.0, libglibmm-2.4, libsigc++-2.0, pango
+glib, libc++, libcairomm-1.16, libglibmm-2.68, libsigc++-3.0, pango
+libjpeg-turbo, libpng, libtiff, zlib
+libpano13 (= 2.9.21)
+libpaper (= 1.2.2)
+libpcap (= 1.10.1-1)
+pcre (= 8.45-1)
+libpipeline (= 1.5.6)
+libpixman (= 0.40.0-2)
+libc++
+libplist (= 2.2.0-1)
+libpng (= 1.6.37-3)
+zlib, freetype, libpng
+libpngwriter (= 0.7.0)
+libc++, libexpat, openssl, pcre, sqlite, zlib
+readline, libsqlite (= 3.38.5)
+libllvm (= 14.0.6)
+libpopt (= 1.18-1)
+libprotobuf-c (= 1.4.1)
+libidn2, libunistring
+libpsl (= 0.21.1)
+libandroid-support, libpng, zlib
+libraptor2 (= 2.0.15-1)
+freetype, harfbuzz, fribidi
+libraqm (= 0.7.1)
+libgmp, libmhash, libraptor2, libuuid, pcre
+librasqal (= 0.9.33)
+librav1e (= 0.5.1)
+libretls (= 3.5.1)
+boost, capnproto, google-glog, leveldb, libc++, libopencc, libyaml-cpp, marisa
+librnnoise (= 2021.03.12)
+gflags, libc++
+librocksdb (= 6.27.3)
+librsvg (= 2.52.1)
+libbz2
+libc++
+libgeos, proj
+librttopo (= 1.1.0-1)
+libsasl (= 2.1.28)
+glib, libjansson, python
+libsearpc (= 1:3.2.0-4)
+libseccomp (= 2.5.4)
+libsecp256k1 (= 20200902-1)
+gobject-introspection, libgcrypt
+openssl
+libsigsegv (= 2.14)
+libcurl, libjpeg-turbo, libpng
+libsixel (= 1.10.3)
+glib
+libice, libuuid
+libsm (= 1.2.3-17)
+libsndfile (= 1.1.0)
+libsodium (= 1.0.18-3)
+libsophia (= 2.2)
+libspatialite (= 5.0.1-1)
+libc++
+ghostscript
+libspectre (= 0.2.9)
+glib, gst-plugins-base, gstreamer, libc++, libiconv, libjpeg-turbo, liblz4, libopus, liborc, libpixman, libsasl, libspice-protocol, openssl, zlib
+libspice-server (= 0.15.0-5)
+libsqlite (= 3.38.5)
+libsqlite, tcl
+openssl
+openssl, zlib
+libssh2 (= 1.10.0-2)
+libstemmer (= 2.2.0)
+openssl, libexpat, c-ares
+libstrophe (= 0.12.1)
+libt3config, pcre2
+libt3config, ncurses
+libc++, libt3key, libt3window, libtranscript, libunistring, pcre2
+libtranscript, libunistring, ncurses
+libtalloc (= 2.3.3)
+libtasn1 (= 4.17.0)
+libc++
+readline, openssl (>= 1.1.1), zlib
+libtd (= 1.8.0)
+libunibilium
+libtheora (= 1.1.1-1)
+libtiff (= 4.3.0-2)
+libtiff (= 4.3.0-2)
+ca-certificates, libbz2, libc++, liblz4, libspdlog, openssl, zlib, zstd
+openssl, libpcap, boost
+libtirpc (= 1.3.2-1)
+openssl, zlib
+boost, openssl, python
+libtorrent (= 0.13.8-2)
+libtreesitter (= 0.20.6)
+libandroid-glob, libcurl, libedit
+libtsduck (= 3.29.2651)
+libc++, ncurses
+libtwolame (= 0.4.0)
+libc++
+libuchardet (= 0.0.7)
+libucontext (= 1.1-1)
+libudfread (= 1.1.2)
+libunistring (= 1.0)
+boost, libc++, libsnappy, openssl, zlib
+libupscaledb (= 2.2.1p20210820-4)
+libusb (= 1.0.26-1)
+libusbmuxd (= 2.0.2)
+libusb
+libusbredir (= 0.7.1)
+libuuid (= 1.0.3-5)
+libuv (= 1.44.1)
+libvbisam (= 2.0-1)
+zlib
+fftw, fontconfig, freetype, giflib, glib, harfbuzz, imagemagick, libc++, libcairo, libexif, libexpat, libheif, libjpeg-turbo, libjxl, libpng, librsvg, libtiff, libwebp, littlecms, openjpeg, pango
+libvips (= 8.13.0)
+libvmaf (= 2.3.1)
+libvorbis (= 1.3.7-1)
+libvpx (= 1:1.12.0)
+libandroid-glob
+libwavpack (= 5.4.0-1)
+libwebp (= 1.2.3)
+libc++
+libwebrtc-audio-processing (= 0.3.1-1)
+libuv
+glib, libgsf, libpng, libxml2, zlib
+libwv (= 1.2.9-1)
+libx11, libxau, libxext, libxmu
+libx11 (= 1.7.2-1)
+libx264 (= 1:0.161.3049-2)
+libx265 (= 3.5-3)
+libc++, libuuid, zlib
+libxapian (= 1.4.18-2)
+libxau (= 1.0.9-9)
+libxcb (= 1.15)
+libx11, libxfixes, libxrender
+libx11
+libxcursor (= 1.2.0-20)
+libxdmcp (= 1.1.3-10)
+libxext (= 1.3.4-11)
+libxfixes (= 5.0.3-25)
+fontconfig, freetype, libbz2, liblzma, libpng, libuuid, libx11, libxau, libxcb, libxdmcp, libxml2, libxrender
+libxft (= 2.3.3-13)
+libx11, libxau, libxcb, libxdmcp, libxext
+libxi (= 1.7.10-23)
+libxls (= 1.6.2)
+zlib
+libxlsxwriter (= 1.1.4)
+libxml2 (= 2.9.14)
+libx11, libxext, libxrender
+libxrandr (= 1.5.2-24)
+libxrender (= 0.9.10-14)
+libxslt (= 1.1.35)
+libx11, libxau, libxcb, libxdmcp, libxext
+libxss (= 1.2.3-13)
+libice, libsm, libuuid, libx11, libxau, libxcb, libxdmcp
+libxt (= 1.2.1)
+libx11, libxext, libxi
+libxtst (= 1.2.3-26)
+libx11, libxext
+libxv (= 1.0.11)
+libyaml (= 0.2.5-4)
+libzen (= 0.4.39-1)
+zstd, libuuid, zlib, libicu, liblzma, libxapian, googletest
+libbz2, liblzma, openssl, zlib, zstd
+libc++, fftw
+libzmq (= 4.3.4-1)
+libc++
+libzthread (= 2.3.2)
+libc++
+libbz2, openssl, pcre, libcrypt, libandroid-glob, zlib
+lighttpd (= 1.4.64-3)
+libsndfile, lv2, python, serd, sord, sratom
+libxml2, libxslt, python, sord
+pcre, serd
+lv2, serd, sord
+fontconfig, freetype, ghostscript, glib, guile, harfbuzz, libc++, pango, python, tex-gyre
+brotli, fontconfig, freetype, glib, libbz2, libcairo, libevent, liblzma, libpng, librsvg, libtiff, libx11, openssl, zlib, zstd
+littlecms (= 2.13.1-1)
+libtiff, littlecms (= 2.13.1-1)
+libc++, libandroid-spawn, libsqlite
+libc++, libedit, libxml2, python, ncurses-ui-libs, libllvm (= 14.0.6)
+libc++, ncurses, zlib, libllvm (= 14.0.6)
+libandroid-glob, libarchive, libbz2, libcurl, ncurses, pcre, readline, sqlite, zlib
+bitcoin
+libpopt, libandroid-glob
+ncurses
+bash
+libandroid-support, libtirpc
+libc++, libelf, libdw
+libandroid-spawn
+liblua53
+readline, liblua51 (= 5.1.5)
+readline, liblua52 (= 5.2.4-8)
+readline, liblua53 (= 5.3.5-10)
+readline, liblua54 (= 5.4.4)
+libluajit (= 1:2.1.0-beta3-3)
+curl, lua53
+libluajit, libuv
+openssl
+libiconv, ncurses, openssl, libbz2, libidn, zlib
+liblz4 (= 1.9.3-1)
+lzlib
+lzlib (= 1.12)
+libc++, libc-client
+mailutils (= 3.13-1)
+guile
+man
+libc++, libiconv, freetype, libcurl, libcairo, libxml2, openjpeg, proj, gdal, libprotobuf-c
+libc++, libiconv, liblzma, ncurses, libedit, openssl-1.1, pcre2, libcrypt, libandroid-support, libandroid-glob, zlib, liblz4
+mariadb (= 2:10.6.7-1)
+marisa (= 0.2.6)
+readline
+freetype, libc++, libjpeg-turbo, libtiff, libwebp, libxcb, littlecms, openjpeg, python, zlib
+libc++
+libolm
+libjansi, openjdk-17
+ecl
+libandroid-support, libiconv, ncurses, glib, openssl, libssh2, zlib
+openssl
+openssl-1.1
+glib, libiconv, readline
+mdbtools (= 1.0.0)
+libandroid-support, ncurses
+libandroid-support, libc++, libmediainfo, libzen
+c-ares, cryptopp, ffmpeg, freeimage, libc++, libcurl, libsodium, libsqlite, libuv, libzen, mediainfo, openssl, pcre, readline, zlib
+glib, libandroid-support, libcurl, libgmp, openssl
+libevent, libsasl
+libandroid-sysv-semaphore-static
+mercury (= 20.06.1-2)
+libnfc
+libbsd, ncurses
+libandroid-support, ncurses, gdbm, openssl, libsasl, mime-support, zlib, libiconv
+mimetic (= 0.9.8)
+libiconv, ncurses
+ffmpeg, libexif, libflac, libid3tag, libjpeg-turbo, libogg, libsqlite, libvorbis
+libbz2
+libsodium
+miniupnpc (= 2.2.2)
+libsodium
+boost, file, libflac, libogg, libvorbis, pcre2, zlib
+libc++, ncurses, libllvm (= 14.0.6)
+libandroid-support
+libc++, openssl, zlib, libandroid-spawn
+boost, libprotobuf, libzmq, openssl, readline, unbound
+libandroid-sysv-semaphore, libbz2, libcurl, libiconv, liblz4, liblzma, libpcreposix, libuuid, libxml2, netcdf-c, openssl, readline, zlib
+krb5, zlib
+mono (= 6.12.0.122-1)
+ncurses
+perl
+libc++, ncurses
+libandroid-support, libc++, libprotobuf, ncurses, openssl, openssh
+perl, mosh (= 1.3.2-37)
+libandroid-support, libc++, libprotobuf, ncurses, openssl, openssh, perl
+libuuid, libmosquitto (= 2.0.11-7)
+slang
+mpg123
+libmp3splt
+libiconv, libmpdclient
+dbus, ffmpeg, game-music-emu, libao, libbz2, libc++, libcurl, libexpat, libflac, libicu, libid3tag, libmad, libmp3lame, libmpdclient, libnfs, libogg, libopus, libsndfile, libsoxr, libsqlite, libvorbis, openal-soft, pulseaudio, zlib
+libcurl, libgcrypt, mpd, libmpdclient, glib
+mpg123 (= 1.29.3-2)
+ffmpeg, fontconfig, freetype, fribidi, libass, libbz2, libdvdread, libiconv, libjpeg-turbo, liblzo, libmp3lame, libogg, libpng, libvorbis, libx11, libx264, libxext, libxss, ncurses, xvidcore, zlib
+ncurses, readline
+mruby (= 3.0.0)
+libgnutls, libidn2
+openssl, liblzo, libuuid, zlib, zstd
+libandroid-support, libiconv
+emacs, glib, libc++, libxapian, libgmime
+libc++, libsqlite, libxapian, notmuch, openssl
+glib, libc++, libgmime, libtalloc, libxapian, zlib
+ncurses, ncurses-ui-libs, libandroid-glob
+freetype, gumbo-parser, harfbuzz, jbig2dec, libjpeg-turbo, openjpeg, tesseract, zlib
+leptonica, libandroid-glob, libandroid-posix-semaphore, libcpufeatures, libc++, libicu, libtool, libuuid, pango, zstd
+mupdf (= 1.19.0-1)
+mupdf (= 1.19.0-1)
+libicu, taglib
+ncurses
+libflac, libid3tag, openssl, pcre, resolv-conf
+git, perl
+ncurses
+ncurses
+libcap, libpcap, openssl, zstd
+python-apt
+apt, build-essential, libc++, python, texinfo
+natpmpc (= 20150609-3)
+fzf, git
+libandroid-support, libiconv, libgnutls, libsqlite, bzip2, glib, ncurses, zlib
+ncurses, libandroid-support
+fftw, boost, readline, libandroid-support, libc++, libcurl, libicu, libmpdclient, ncurses, zlib
+libc++, ncurses-ui-libs, pulseaudio
+dbus, pulseaudio
+dbus, pulseaudio
+ncurses (= 6.3-2)
+ncurses (= 6.3-2)
+libandroid-support, ncurses
+bash
+gdbm, krb5, libiconv, libsasl, ncurses, notmuch, openssl, zlib, zstd
+libiconv, libuv, luv, libmsgpack, libandroid-support, libvterm, libtermkey, libluajit, libunibilium, libtreesitter
+libiconv, libuv, luv, libmsgpack, libandroid-support, libvterm, libtermkey, libluajit, libunibilium, libtreesitter
+net-snmp (= 5.9.1)
+libbsd
+netcdf-c (= 4.9.0)
+gzip, ncurses
+libpng, libxml2, libjpeg-turbo, libtiff, zlib
+libnettle (= 3.7.3)
+json-c, libandroid-glob, libandroid-support, libc++, libcurl, libiconv, libsqlite, libxml2, ncurses, openssl, stfl
+libandroid-support, libiconv, ncurses
+libandroid-glob, libcrypt, pcre, openssl, zlib
+zlib, openssl
+libc++, readline, fftw
+clang, git, libandroid-glob, openssl-1.1
+ncurses
+libc++
+libc++, libpcap, pcre, openssl, resolv-conf, liblua53, libssh2, zlib
+libpcap, openssl, liblua53, nmap (= 7.92-2)
+gdbm, libdb, libiconv, libsasl, openssl
+file, findutils, readline, wget, libandroid-support, lzip
+libandroid-support, ncurses
+ncurses
+libandroid-support, libc++, libiconv, zlib
+libc++, ncurses
+libnss (= 3.78-1)
+ncurses
+openssl, zlib
+libc++, libxml2, ncurses, openssl-1.1, p7zip, zlib
+xmlsec, zlib
+libxslt, openssl, libgcrypt, libgpg-error, libxml2
+oathtool (= 2.6.7)
+tor
+libc++
+ocrad (= 0.27-3)
+libiconv, libllvm
+libiconv, libzip, zlib
+ncurses
+libgit2
+oniguruma (= 6.9.8)
+libandroid-posix-semaphore, libandroid-wordexp, libc++, libcrypt
+oorexx (= 4.2.0-2)
+libedit
+libc++, libcairo, libxml2, eigen, boost
+libopencc (= 1.1.3-1)
+libc++, libjpeg-turbo, libpng, libprotobuf, libtiff, libwebp, openjpeg, openjpeg-tools, zlib
+libtiff, littlecms, libpng, openjpeg (= 2.5.0)
+python, opencv (= 4.5.5-3)
+libc++
+openethereum (= 3.3.5)
+openmpi, flex, boost, cgal, fftw, readline, libc++
+libandroid-posix-semaphore, libandroid-shmem
+xorg-util-macros
+libsasl, libuuid, openssl
+openldap (= 2.5.4-4)
+openmpi (= 4.1.1-4)
+boost, cgal, double-conversion, fontconfig, harfbuzz, libzip
+openssl-1.1 (= 1.1.1o)
+openssl (= 3.0.3)
+openssl-1.1 (= 1.1.1o)
+libpng, zlib
+libopusenc, libogg, libflac, opusfile, libopus
+opusfile (= 0.12-2)
+libexpat, proj, bzip2, zlib, postgresql, lua54
+zlib
+libosmium, libprotozero, boost, libbz2, zlib, liblz4, libexpat
+ossp-uuid (= 1.6.2-3)
+libc++
+gettext, libffi, libtasn1
+bash, libarchive, curl, gpgme, openssl
+ncurses
+libc++, python
+panda3d (= 1.10.11)
+panda3d (= 1.10.11)
+libc++
+perl
+gzip, libgmp, readline
+pari (= 2.13.4)
+libiconv, libuuid, readline
+parted (= 3.5)
+bash, fzf
+bash, coreutils, gnupg (>= 2.2.9-1), tree
+debianutils, oathtool, pass
+python
+bash, python
+pcaudiolib (= 1.2-2)
+pcre (= 8.45-1)
+pcre2 (= 10.40)
+pcre2 (= 10.40)
+pcre (= 8.45-1)
+djvulibre, libc++, libiconv, poppler
+fontconfig, freetype, glib, libc++, libcairo, libcurl, libiconv, libjpeg-turbo, libpng, libtiff, littlecms, openjpeg, openjpeg-tools, zlib
+glib, libcairo, poppler
+libc++, libgcrypt, libgpg-error, pcre, poppler
+libbcprov-java, libcommons-lang3-java, openjdk-17
+libicu
+fzf
+apache2, php (= 8.1.6)
+php
+php (= 8.1.6)
+php, imagemagick
+openldap, php (= 8.1.6)
+apr-util, postgresql, php (= 8.1.6)
+php
+php
+libsodium, php (= 8.1.6)
+php
+freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
+apache2, php7 (= 7.4.30)
+php7 (= 7.4.30)
+apr-util, postgresql, php7 (= 7.4.30)
+apache2, php
+libao, ffmpeg, libgcrypt, libcurl, json-c
+ncurses
+libcrypt, libffi, openssl, readline
+zlib
+google-glog, libc++, libprotobuf, librocksdb, zlib
+bash
+avahi, ffmpeg, libfdk-aac, liblua54, lilv, libsndfile, libusb, libwebrtc-audio-processing, pulseaudio
+libandroid-glob, libarchive, libcurl, pcre
+openjdk-17
+libc++
+libc++, lzlib
+libpng, zlib
+libimagequant, libpng, littlecms
+readline, gettext, json-c, libgc
+poke (= 1.3)
+resolv-conf
+libandroid-posix-semaphore, libc++, libffi, libgmp
+polyml (= 5.9-2)
+libinih, ncurses
+libc++
+portaudio (= 19.07.00)
+gdal, json-c, postgresql, proj, libprotobuf-c, libxml2, libiconv
+postgresql (= 14.2-4)
+zlib
+potrace (= 1.16-1)
+libcrypt, libretls
+boost, libjpeg-turbo, libpng, libtiff, openexr2, povray-data, zlib
+ncurses, ncurses-ui-libs
+pcre, libpcreposix, zlib
+ncurses
+procps (= 3.3.17-2)
+libandroid-support, libffi, ncurses, glib, libcurl, readline, libuuid, libotr, gpgme, python, libassuan, libgpg-error, zlib, libsignal-protocol-c, libstrophe
+libandroid-wordexp, ncurses
+bash, bzip2, coreutils, curl, findutils, gzip, ncurses-utils, proot (>= 5.1.107-32), sed, tar, xz-utils
+libsecret
+libbz2, libc++, readline
+libbz2, libc++, readline
+ncurses
+ghostscript, perl, libpaper
+psutils (= 2.09-2)
+glib, pulseaudio (= 16.1-1)
+pulseaudio-static, pulseaudio-glib, pulseaudio (= 14.2-10)
+pulseaudio (= 14.2-10)
+libcrypt, openssl
+gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libexpat, libffi, liblzma, libsqlite, libxml2, ncurses, ncurses-ui-libs, openssl, readline, zlib
+tk, pypy (= 7.3.9-1)
+gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libexpat, libffi, liblzma, libsqlite, libxml2, ncurses, ncurses-ui-libs, openssl, readline, zlib
+tk, pypy3 (= 7.3.9-1)
+gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libffi, libsqlite, ncurses, ncurses-ui-libs, openssl, readline, zlib
+tk, python (= 3.10.6)
+python (= 3.10.6)
+python
+python2 (= 2.7.18-12)
+libc++, zstd (= 1.5.2-1)
+libc++, libiconv, libcurl, libmpfr, libxml2, readline, libgmp, zlib
+qalc (= 4.2.0)
+glib, libgcrypt
+glib, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
+glib, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
+glib, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
+glib, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
+glib, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
+glib, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
+glib, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
+glib, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
+glib, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
+glib, libandroid-shmem, libc++, libgnutls, libpixman
+glib, libandroid-shmem, libc++, libgnutls, libpixman
+glib, libandroid-shmem, libc++, libgnutls, libpixman
+glib, libandroid-shmem, libc++, libgnutls, libpixman
+glib, libandroid-shmem, libc++, libgnutls, libpixman
+glib, libandroid-shmem, libc++, libgnutls, libpixman
+glib, libandroid-shmem, libc++, libgnutls, libpixman
+glib, libandroid-shmem, libc++, libgnutls, libpixman
+glib, libandroid-shmem, libc++, libgnutls, libpixman
+glib, libbz2, libcap-ng, libcurl, libgnutls, libnettle, libnfs, libpixman, libssh, zlib, zstd
+libc++, libjpeg-turbo, zlib
+qpdf (= 10.6.3)
+boost, fftw, libc++, libcurl, libgd, libliquid-dsp, libssh, libyaml-cpp, pulseaudio
+libc++
+quickjs (= 1:20201108)
+coreutils, diffstat, gawk, graphviz, perl
+libffi, libiconv
+racket (= 7.4-6)
+libuv
+radare2 (= 5.7.6)
+libc++
+python, file
+binutils, libedit
+boost, libc++, libevent, openssl
+ravencoin (= 4.3.2.1-4)
+bash
+diffutils
+readline
+libpopt, librsync (= 2.3.2-1)
+librsync, python
+python
+libcurl, libiconv, libseccomp, libxml2
+libc++
+readline (= 8.1.1)
+libiconv
+recode (= 3.7.12)
+recutils (= 1.8-1)
+libandroid-glob
+libandroid-wordexp, readline
+libpng
+rhash (= 1.4.3)
+libc++
+pcre2
+ripgrep, fzf
+ncurses, readline
+ncurses
+termux-keyring
+librasqal (= 0.9.33)
+coreutils, openssh, perl, rsync
+libiconv, liblz4, libpopt, openssh | dropbear, openssl, openssl-tool, zlib, zstd
+openssl, zlib
+rtmpdump (= 2.4-6)
+libc++, libcurl, libtorrent, ncurses
+fftw, ladspa-sdk, libsamplerate, libsndfile, lv2, vamp-plugin-sdk
+libc++, libsndfile
+rubberband (= 2.0.2)
+ncurses
+ruby (= 3.1.2)
+runit (= 2.1.2-3)
+rust (= 1.62.1)
+rustc-nightly (= 1.61.0-1)
+libc++, clang, openssl, lld, zlib, libllvm
+rustc-nightly (= 1.61.0-1)
+rust (= 1.62.1)
+rust (= 1.62.1)
+nmap
+bash
+libbsd, libcap, libcrypt, libgnutls, libiconv, libicu, libpopt, libtalloc, libtirpc, ncurses, openssl, readline, tdb-tools, zlib
+libtdb (= 1.4.5-1)
+libandroid-support, libandroid-wordexp, liblua51, libxls, libxlsxwriter, libxml2, libzip, ncurses
+openjdk-17
+ncurses, libcrypt
+bash
+openssl
+glib, libc++, readline, zlib
+libcurl, libevent, libsearpc, libsqlite, libuuid, openssl, python
+seafile-client (= 8.0.8)
+libgcrypt
+perl, clang, make
+apr, apr-util, openssl, libuuid, libexpat, zlib
+serf (= 1.3.9-9)
+libconfig, libdaemon, libpopt, libsoxr, openssl, pulseaudio
+libandroid-support
+clang
+openssl
+ghc-libs, haskell-regex-tdfa, haskell-diff, haskell-quickcheck, haskell-aeson
+openssl, openssl-tool, termux-auth (>= 1.2), zlib
+perl
+pcre, liblzma, zlib
+libandroid-glob
+ncurses
+ncurses
+perl
+libsqlite, ncurses
+sleuthkit (= 4.11.1)
+bash
+glib, libandroid-support, libffi, libltdl, libsigsegv, zlib
+smalltalk (= 3.2.91-14)
+avahi, pulseaudio, libc++, libexpat, libflac, libopus, libsoxr, libvorbis
+libc++, libexpat, libflac, libopus, libsoxr, libvorbis
+net-snmp, perl
+openssl, readline
+libiconv, libsodium, ncurses, openssl, readline, zlib
+boost, jsoncpp
+swift (= 5.6.2)
+file, libandroid-glob, libao, libflac, libiconv, libid3tag, libltdl, libmad, libmp3lame, libogg, libpng, libsndfile, libvorbis, opusfile, pulseaudio, zlib
+sox (= 14.4.2-24)
+bash
+libgeos, libexpat, sqlite, proj, libspatialite
+dotconf, espeak, glib, libiconv, pulseaudio, python
+speexdsp (= 1.2.0-2)
+openssl
+sqlcipher (= 4.5.2)
+zlib, liblz4, liblzo, zstd
+squashfs-tools-ng (= 1.1.4)
+libmad, mpg123, pulseaudio
+libc++, libcrypt, libxml2, libltdl, libgnutls, resolv-conf
+libcrypt
+bdsup2sub, ffmpeg, fontconfig-utils, imagemagick, mediainfo, python
+leveldb, libc++
+libc++
+ssdeep (= 2.14.1)
+libc++, libssh
+openssl
+libgmp
+ncurses
+openssl, zlib
+man
+libjpeg-turbo, libmcrypt, libmhash, zlib
+stfl (= 0.24-4)
+libnettle, libxml2
+stoken (= 0.92)
+openssl
+perl
+libdw
+glib, libmad, libvorbis
+openssl
+stunnel (= 5.64)
+libc++, openssl
+libpng, netpbm, zlib
+subversion-perl, subversion (= 1.14.2-1)
+subversion (= 1.14.2-1)
+lv2
+less, libexpat, libiconv, ncurses
+lynx, perl
+perl
+libarchive, libcrypt, libgmp, libjpeg-turbo, libyaml, ncurses, ncurses-ui-libs, pcre, readline, ossp-uuid, zlib
+ta-lib (= 0.4.0-1)
+libc++, readline, taskwarrior, libandroid-glob
+libc++, libgnutls, libuuid, libandroid-glob
+ncurses, libcrypt, libiconv
+libc++, zlib
+teckit (= 2.5.11)
+fontconfig, harfbuzz, libgraphite, libicu, openssl, zlib
+readline, openssl, zlib
+libconfig, libevent, libjansson, openssl, readline, zlib
+apache2, php
+termux-api
+binutils, python, tar
+binutils, python
+libc++
+python
+git
+tesseract (= 5.0.0-rc3-0)
+freetype, harfbuzz, harfbuzz-icu, libc++, libcairo, libgd, libgmp, libgraphite, libiconv, libicu, liblua52, libmpfr, libpaper, libpixman, libpng, teckit, zlib, zziplib
+zlib
+perl, texlive-bin (>= 20200406-4), gnupg, curl, lz4, xz-utils
+texlive-bin (= 20220403-1)
+tidy (= 5.8.0-1)
+libiconv, ncurses, git, libandroid-support
+libc++, libt3config, libt3highlight, libt3widget, libtranscript, libunistring
+libandroid-glob, libc++
+ffmpeg, graphicsmagick, libc++, libjpeg-turbo, libexif, zlib
+pcre, libgnutls, zlib
+ncurses, openssl, pcre, zlib
+boost, dbus, libandroid-wordexp, libcurl, libflac, liblog4c, libmad, libmediainfo, libmp3lame, liboggz, libopus, libsndfile, libsqlite, libuuid, libvpx, mpg123, opusfile, pulseaudio, python, taglib
+libandroid-support, libevent, libmsgpack, libssh, ncurses
+libcaca
+ncurses, boost
+tor
+torsocks (= 2.3.0-5)
+c-toxcore, libconfig, libcurl, libqrencode, ncurses, zlib
+freetype, gawk, imagemagick, libandroid-glob, libandroid-shmem, libdvdread, libjpeg-turbo, liblzo, libmp3lame, libogg, libtheora, libvorbis, libxml2, zlib
+transcode (= 1.1.7)
+bash, curl, gawk, less, rlwrap
+libcurl, libevent, miniupnpc, openssl
+openjdk-17, libtsduck (= 3.29.2651)
+libtsduck (= 3.29.2651)
+python, libtsduck (= 3.29.2651)
+libtsduck (= 3.29.2651)
+freetype, libc++, zlib
+ncurses
+ncurses
+json-c, libcap, libuv, libwebsockets, openssl, zlib
+ncurses
+libiconv, ffmpeg, libopus, libx264, libx265, libvpx, libfdk-aac, libogg, libtheora, libvorbis, pngquant
+libsndfile, libtwolame (= 0.4.0)
+libcurl
+libuchardet (= 0.0.7)
+readline
+capstone, libandroid-glob, libandroid-spawn, libelf, libdw, ncurses, python, libluajit
+bash, fzf, ncurses-utils, ugit
+libbz2, libc++, libgnustep-base, libicu, libwavpack, zlib
+unbound (= 1.15.0-1)
+unicorn (= 2.0.0)
+readline, libandroid-support
+ffmpeg
+libiconv, openssh, zlib
+libupscaledb (= 2.2.1p20210820-4)
+utf8proc (= 2.7.0)
+libc++
+util-linux (= 2.38)
+libandroid-glob, libandroid-sysv-semaphore, libcap, libcrypt, libjansson, libuuid, libxml2, openssl, pcre, python
+clang, glib, pkg-config
+valac (= 0.52.3-1)
+graphviz, valac (= 0.52.3-1)
+valgrind (= 3.19.0-2)
+vamp-plugin-sdk (= 2.10)
+git
+libpcap, libtool, openssl, libc++
+vde2 (= 2.3.2-3)
+boost, libc++, tcl
+ncurses, file
+ncurses
+libiconv, ncurses, vim-runtime
+libiconv, ncurses, vim-runtime, python
+liblua53, libtermkey, lua-lpeg, ncurses
+ncurses
+avahi, chromaprint, dbus, ffmpeg, fluidsynth, fontconfig, freetype, fribidi, gdk-pixbuf, glib, gst-plugins-base, harfbuzz, liba52, libandroid-shmem, libandroid-spawn, libaom, libarchive, libass, libbluray, libc++, libcaca, libcairo, libcddb, libdav1d, libdvbpsi, libdvdread, libflac, libgcrypt, libgnutls, libiconv, libidn, libjpeg-turbo, liblua52, libmad, libnfs, libogg, libopus, libpng, librsvg, libsecret, libsoxr, libssh2, libtheora, libtwolame, libvorbis, libvpx, libx11, libx264, libx265, libxcb, libxml2, mpg123, ncurses, pulseaudio, samba, taglib, zlib
+vlc (= 3.0.17.4-2)
+libc++, tesseract
+libiconv, libvorbis, libflac, libogg
+libandroid-spawn, libc++
+libc++
+libc++
+imlib2, libx11, w3m (= 0.5.3.20190105-8)
+libc++, libllvm
+zlib
+libiconv, libwavpack (= 5.4.0-1)
+libandroid-spawn, liblz4, zstd
+flex, libmpfr, libgmp, readline
+libiconv
+libiconv, ncurses, libgcrypt, libcurl, libgnutls, libandroid-support, zlib, zstd
+liblua53, weechat (= 3.6)
+weechat, openssl
+perl, weechat (= 3.6)
+python, weechat (= 3.6)
+ruby, weechat (= 3.6)
+gpgme, libandroid-glob, libassuan, libgnutls, libgpg-error, pcre2
+wget2 (= 2.0.1)
+libnewt (= 0.52.21)
+libc++
+brotli, libc++
+liblua53, ncurses, zlib
+openssl, luajit
+libwv (= 1.2.9-1)
+termux-keyring
+libx264 (= 1:0.161.3049-2)
+libx265 (= 3.5-3)
+libxapian (= 1.4.18-2)
+liblzma
+libxls (= 1.6.2)
+xmlsec (= 1.2.31-3)
+libxslt, libxml2
+libxslt
+libstrophe, glib, gpgme
+xvidcore (= 1.3.7)
+xxhash (= 0.8.1)
+git
+yajl (= 2.1.0-5)
+file, openssl, libandroid-posix-semaphore
+yara (= 4.2.2)
+nodejs | nodejs-lts
+libiconv
+yasm (= 1.3.0-6)
+graphviz, libandroid-glob, libandroid-spawn, libc++, libffi, readline, tcl, zlib
+curl, jq
+libssh2, libxml2, ncurses, openssl, readline, zlib
+yuma123 (= 2.12)
+apache2, php
+libiconv, imagemagick, libjpeg-turbo, zlib
+zbar (= 0.23.90)
+bash, clang, make, openssl-tool, pkg-config, python
+libandroid-spawn, libc++, libxml2, ncurses, zlib
+libgc, ncurses
+libc++, zlib
+zlib (= 1.2.12)
+libc++, libicu, libsasl, openssl, zlib
+libzopfli (= 1.0.3-2)
+libandroid-support, libcap, ncurses, termux-tools, command-not-found, pcre
+zsh
+libandroid-glob, lrzsz, openssh, readline
+zstd (= 1.5.2-1)
+zzuf (= 2019.02.08)
+libllvm-11, libc++, zlib
+binutils, libc++, ncurses, ndk-sysroot, libffi, zlib
+libandroid-mathlib (= 0.1)
+libandroid-nl-types (= 0.1)
+binutils-is-llvm, libc++, ncurses, ndk-sysroot, libffi, zlib
+libandroid-mathlib, libandroid-execinfo, libllvm-classic-flang
+libllvm-11 (= 11.1.0-1)
+libffi, openssl, python
+mesa, mtdev, python, sdl2, sdl2-image, sdl2-mixer, sdl2-ttf
+libandroid-glob, libflac, libogg, libsndfile, libvorbis, libx11, libxau, libxcb, libxcursor, libxdmcp, libxext, libxfixes, libxi, libxinerama, libxrandr, libxrender, libxss, libxxf86vm, pulseaudio
+libandroid-glob, libflac, libjpeg-turbo, liblzma, libogg, libpng, libsndfile, libtiff, libvorbis, libwebp, libx11, libxau, libxcb, libxcursor, libxdmcp, libxext, libxfixes, libxi, libxinerama, libxrandr, libxrender, libxss, libxxf86vm, sdl2, zlib
+libflac, libmodplug, libvorbis, mpg123, opusfile, sdl2
+freetype, mesa, sdl2
+python-numpy (= 1.23.0)
+libc++, python
+freetype, libimagequant, libjpeg-turbo, libraqm, libtiff, libxcb, littlecms, python, zlib
+python3.9 (= 3.9.13-1)
+gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libffi, liblzma, libsqlite, ncurses, ncurses-ui-libs, openssl, readline, zlib
+tk, python3.9 (= 3.9.13-1)
+python, wget, proot
+libxcb, xcb-util-keysyms, xcb-util-wm, xcb-util-xrm
+libxcb
+libxcb
+libx11, libxau, libxcb, libxdmcp, xcb-util
+enchant, fribidi, glib, goffice, gtk3, libc++, libcairo, libgcrypt, libgsf, libical, libjpeg-turbo, libpng, librsvg, libwv, libxml2, libxslt, readline
+gdk-pixbuf, glib, gtk3, libcairo, libgsf, librsvg, libspectre, libxml2, libxslt, pango
+adwaita-icon-theme, atk, coreutils, desktop-file-utils, fontconfig, freetype, fribidi, gdk-pixbuf, glib, glib-bin, gtk-update-icon-cache, harfbuzz, libcairo, libepoxy, libxcomposite, libxcursor, libxdamage, libxfixes, libxi, libxinerama, libxrandr, pango, shared-mime-info, ttf-dejavu
+abiword (= 3.0.5)
+hicolor-icon-theme
+qt5-qtbase, qt5-qtx11extras, qt5-qtsvg
+dbus, double-conversion, harfbuzz, libandroid-shmem, libandroid-sysv-semaphore, libc++, libice, libicu, libjpeg-turbo, libpng, libsm, libuuid, libx11, libxcb, libxi, libxkbcommon, openssl, pcre2, ttf-dejavu, freetype, xcb-util-image, xcb-util-keysyms, xcb-util-renderutil, xcb-util-wm, zlib, glib
+qt5-qtbase
+qt5-qtbase
+hicolor-icon-theme, qt5-qtbase, qt5-qtsvg, qt5-qtx11extras, libarchive, bsdtar, zip
+dbus, glib, atk, libxtst
+glib
+libice, libsm, libx11, libxext, xorg-fonts-75dpi | xorg-fonts-100dpi
+fontconfig-utils, xorg-font-util, xorg-fonts-alias, xorg-fonts-encodings, xorg-mkfontscale
+fontconfig-utils, xorg-font-util, xorg-fonts-alias, xorg-fonts-encodings, xorg-mkfontscale
+qt5-qtbase, dbus-glib
+dbus, glib
+audacious, qt5-qtbase, qt5-qtmultimedia, qt5-qtx11extras, zlib, libflac, libcue, libcurl, mpg123, libogg, libsndfile, libsoxr, libvorbis, libxrender, libxcomposite, ffmpeg
+qt5-qtbase, pulseaudio, openal-soft, gstreamer, gst-plugins-base, gst-plugins-bad
+libx11, libxau, libxcb, libxdmcp
+glib, gtk3, libc++, libexpat, libflac, libmp3lame, libogg, libsndfile, libsoxr, libvorbis, wxwidgets, zlib
+glu, gtk3, libcurl, libexpat, libiconv, libjpeg-turbo, liblzma, libnotify, libpng, libsecret, libsm, libtiff, mesa, sdl2
+libandroid-shmem, iconv, fontconfig, freetype, hicolor-icon-theme, libxfixes, libxi, libxcursor, libpng, libjpeg-turbo, libtiff, libwebp
+atk, enchant, gdk-pixbuf, glib, gtk3, harfbuzz, libcairo, libxml2, pango, zlib
+bluefish (= 2.2.12)
+atk, fontconfig, freetype, gdk-pixbuf, glib, gtk2, libc++, libcairo, libgraphite, libx11, libxpm, libxrandr, ncurses, pango, readline
+adwaita-icon-theme, atk, coreutils, desktop-file-utils, glib-bin, gtk-update-icon-cache, libcairo, librsvg, libxcomposite, libxcursor, libxdamage, libxi, libxinerama, libxrandr, pango, shared-mime-info, ttf-dejavu
+libx11, libxext, libxt
+libx11, libxcb, libxkbcommon, sxhkd, xcb-util, xcb-util-cursor, xcb-util-keysyms, xcb-util-wm, xcb-util-xrm
+libxcb, libxml2, xkeyboard-config
+libx11, libxcb, libxkbcommon, xcb-util, xcb-util-keysyms
+libxcb
+libandroid-shmem, libxcb, xcb-util-image, xcb-util-renderutil
+atk, dbus-glib, glib, gtk3, pango, libcairo, libx11, xsltproc, libcurl, gdk-pixbuf, harfbuzz, mesa, glu, librsvg, libxcomposite, libwayland, libwayland-protocols, libxinerama, libxrandr, libxrender, libxtst, libxml2
+libandroid-shmem, libc++, libdrm, libexpat, libx11, libxau, libxcb, libxdamage, libxdmcp, libxext, libxfixes, libxshmfence, mesa, zlib
+libandroid-support, libffi, libxml2, libexpat
+libandroid-support
+libx11, libxau, libxcb, libxdmcp, libxext
+atk, gdk-pixbuf, glib, gtk3, harfbuzz, libcairo, libexif, libice, libnotify, libsm, libx11, libxml2, mate-desktop, pango
+gdk-pixbuf, glib
+libmatekbd, dconf
+caja (= 1.24.1)
+qt5-qtbase, qt5-qtmultimedia, qt5-qtsvg, qt5-qtxmlpatterns, zlib, taglib, ffmpeg, mpg123, avahi, libcddb, libmusicbrainz, mpd
+qt5-qtbase, qt5-qtdeclarative
+sdl2, sdl2-mixer, sdl2-net, mpg123
+sdl2, libandroid-glob, libflac, libogg, libsndfile, libvorbis, libx11, libxau, libxcb, libxcursor, libxdmcp, libxext, libxfixes, libxi, libxinerama, libxrandr, libxrender, libxss, libxxf86vm
+libc++, libcdk, sdl-mixer
+libvorbis, sdl
+dbus-glib (= 0.112-4)
+dbus, glib-bin
+qt5-qtbase, qt5-qtsvg
+glib
+libx11, gettext, glib, gtk3, libwnck
+gtk2, startup-notification
+dash, freetype, libxinerama, libx11, libxft
+libc++, libpng, libx11, sdl, sdl-net, zlib
+libandroid-glob, libflac, libogg, libsndfile, libvorbis, libx11, libxext, libxrandr, libxrender, pulseaudio
+libandroid-glob, libflac, libogg, libsndfile, libvorbis, sdl
+dbus, libxinerama, libxrandr, libxss, glib, pango, libcairo, libnotify
+libx11, libxinerama, libxft, freetype, st, dmenu
+libxft, libxext
+fontconfig, freetype, gdk-pixbuf, giflib, glib, libgnutls, libice, libjansson, libjpeg-turbo, libpng, librsvg, libsm, libtiff, libx11, libxaw, libxcb, libxext, libxfixes, libxft, libxinerama, libxml2, libxmu, libxpm, libxrandr, libxrender, libxt, littlecms, ncurses, zlib
+libice, libsm, libuuid, libx11, libxau, libxcb, libxdmcp, libxext, libxmu, libxpm, libxt
+libice, libsm, libuuid, libx11, libxau, libxcb, libxdmcp, libxext, libxt
+adwaita-icon-theme, atk, gcr, gdk-pixbuf, glib, gsettings-desktop-schemas, gtk3, iso-codes, json-glib, libarchive, libcairo, libdazzle, libgmp, libhandy, libnettle, libsecret, libsoup, libsqlite, libxml2, pango, webkit2gtk
+glib, gtk3, libcairo, libgcrypt, p11-kit, pango
+dconf
+gdk-pixbuf, glib, gtk3, libcairo, pango
+atk, fribidi, gdk-pixbuf, glib, gtk3, libcairo, pango
+atk, enchant, fontconfig, freetype, glib, gst-plugins-base, gstreamer, gtk3, harfbuzz, harfbuzz-icu, libc++, libcairo, libgcrypt, libhyphen, libicu, libjpeg-turbo, libnotify, libpng, libsoup, libtasn1, libwebp, libxml2, libx11, libxcomposite, libxdamage, libxslt, libxt, littlecms, openjpeg, pango, woff2
+hicolor-icon-theme, libxfce4ui
+gtk2, gtk3, hicolor-icon-theme, libsm, libxfce4util, startup-notification, xfconf, glib
+exo (= 4.17.1-3)
+cmake
+hicolor-icon-theme, qt5-qtbase, qt5-qtsvg, qt5-qtx11extras, hunspell, libx11
+hicolor-icon-theme, qt5-qtbase, qt5-qtsvg, qt5-qtx11extras, hunspell
+imlib2, libandroid-shmem, libcurl, libexif, libjpeg-turbo, libpng, libx11, libxinerama
+bzip2, desktop-file-utils, cpio, glib, gtk3, gzip, libcairo, lzip, lzop, p7zip, tar, unrar, unzip, xz-utils, zip, bsdtar, zlib, json-glib, libnotify, libarchive
+libuchardet, taglib, qt5-qtbase, qt5-qttools
+qt5-qtbase, qt5-qtdeclarative
+atk, fontconfig, freetype, fribidi, gdk-pixbuf, glib, gstreamer, gtk3, harfbuzz, libandroid-shmem, libcairo, libcroco, libpixman, libpng, librsvg, libx11, libxcb, libxext, libxi, libxml2, libxrender, libxtst, pango, zlib
+fontconfig, glu, libc++, libjpeg-turbo, libpng, libx11, libxcursor, libxext, libxfixes, libxft, libxinerama, libxrender, mesa, zlib
+fltk (= 1.3.7-2)
+gtk3, gtk2-engines-murrine
+gtk2, atk, fontconfig, libcairo, freetype, gdk-pixbuf, glib, harfbuzz, pango, libpixman
+hicolor-icon-theme
+feh, fribidi, imlib2, libc++, libxft, libxinerama, libxpm, libxrandr, xorg-xmessage
+libx11, libxaw, libxt
+freetype, giflib, glib, gtk3, libc++, libcairo, libiconv, libjpeg-turbo, libpng, libtiff, libxml2, pango, readline, woff2, zlib
+glu, libxi, libxrandr, mesa
+freeglut (= 3.2.1-16)
+fribidi, librsvg, libxcursor, libxinerama, libxpm, imlib2, libandroid-shmem
+atk, gdk-pixbuf, glib, gtk3, libandroid-shmem, libcairo, pango
+libxfce4ui
+garcon (= 4.16.1-2)
+atk, fontconfig, freetype, fribidi, gdk-pixbuf, glib, gtk3, harfbuzz, libandroid-glob, libandroid-shmem, libbz2, libc++, libcairo, libffi, libgraphite, liblzma, libpixman, libpng, libuuid, libvte, libx11, libxau, libxcb, libxdmcp, libxext, libxml2, libxrender, pango, pcre, zlib
+fribidi, gtk3, libgnutls, libicu, pcre2
+geany
+geany-plugins (= 1.38)
+geany (= 1.37.1-9)
+gtk3
+aalib, atk, babl, fontconfig, freetype, gdk-pixbuf, gegl, gexiv2, ghostscript, gimp-data, glib, glib-networking, gtk2, harfbuzz, hicolor-icon-theme, json-glib, libandroid-shmem, libc++, libcairo, libheif, libjpeg-turbo, libmypaint, libpng, librsvg, libtiff, libwebp, libxcursor, libxml2, libxpm, libxslt, littlecms, mypaint-brushes, openexr2, openjpeg, pango, poppler, poppler-data, zlib
+gimp (= 2.10.30)
+libx11
+atk, fontconfig, freetype, gdk-pixbuf, glib, gtk3, libcairo, libxml2, pango, xsltproc, libglade
+atk, fontconfig, freetype, gdk-pixbuf, glib, gtk2, libcairo, libxml2, pango
+glu, libxi, libxmu
+glew (= 2.2.0-11)
+libx11
+libx11, libxau, libxcb, libxdmcp, libxfixes
+glu (= 9.0.2-2)
+gdk-pixbuf, glib, gsettings-desktop-schemas, gtk3, iso-codes, libcairo, libxkbcommon, xkeyboard-config
+fontconfig, freetype, gdk-pixbuf, glib, gnome-desktop3, gtk3, harfbuzz, libcairo, libhandy, pango
+glib, goffice, gtk3, libcairo, libgsf, libxml2, pango, zlib
+gnumeric (= 1.12.52)
+goffice (= 0.10.52)
+atk, gdk-pixbuf, glib, gpgme, gtk3, libandroid-shmem, libassuan, libcairo, libgpg-error, pango, pinentry-gtk
+atk, fontconfig, freetype, gdk-pixbuf, glib, gtk2, libandroid-shmem, libassuan, libcairo, libgpg-error, ncurses, pango
+glib
+glib, gdk-pixbuf, libandroid-shmem
+coreutils, glib, libxml2
+gtk2, gdk-pixbuf, gtk2-engines-murrine, gnome-themes-extra (= 3.28)
+gtk2-engines-adwaita, gnome-themes-extra (= 3.28)
+gtk2-engines-murrine (= 0.98.2-2)
+gtk2 (= 2.24.32-35)
+mesa
+gtk3 (= 3.24.34)
+adwaita-icon-theme, atk, coreutils, desktop-file-utils, fontconfig, gdk-pixbuf, glib, glib-bin, graphene, gtk-update-icon-cache, libcairo, libepoxy, libxcomposite, libxcursor, libxdamage, libxfixes, libxi, libxinerama, libxrandr, pango, shared-mime-info, ttf-dejavu, libxkbcommon
+gdk-pixbuf, glib, gtk2, libatkmm-1.6, libc++, libcairomm-1.0, libglibmm-2.4, libpangomm-1.4, libsigc++-2.0
+atk, glib, libc++, libglibmm-2.4, libsigc++-2.0
+gtkmm2 (= 2.24.5)
+gdk-pixbuf, glib, gtk3, libatkmm-1.6, libc++, libcairomm-1.0, libglibmm-2.4, libpangomm-1.4, libsigc++-2.0
+gdk-pixbuf, glib, graphene, gtk4, libc++, libcairo, libcairomm-1.16, libglibmm-2.68, libpangomm-2.48, libsigc++-3.0
+atk, fribidi, glib, gtk3, libcairo, libxml2, pango
+bzip2, gtk2, desktop-file-utils, libandroid-shmem, xz-utils
+qt5-qtbase, qt5-qtsvg, librsvg, libpng
+gdk-pixbuf, glib, gtk2, liblua53, libnotify, libx11, openssl, pango, python
+boost, enblend, exiftool, exiv2, fftw, glew, glu, libc++, libflann, libjpeg-turbo, libpano13, libpng, libsqlite, libtiff, libvigra, littlecms, mesa, wxwidgets, zlib
+glib, i3status, libandroid-glob, libandroid-shmem, libandroid-wordexp, libcairo, libev, libxcb, libxkbcommon, pango, pcre, perl, startup-notification, xcb-util, xcb-util-cursor, xcb-util-keysyms, xcb-util-wm, xcb-util-xrm, yajl
+libandroid-glob, libconfuse, libnl, pulseaudio, yajl
+libx11, libxcb, xcb-util
+atk, boost, double-conversion, fontconfig, freetype, gdk-pixbuf, glib, gsl, gtk3, gtkmm3, harfbuzz, libc++, libcairo, libgc, libice, libiconv, libjpeg-turbo, libpng, libpopt, libsm, libsoup, libx11, libxext, libxml2, libxslt, littlecms, pango, poppler, potrace, readline, zlib
+python, libxml2, libxslt, inkscape (= 1.1.2-1)
+inkscape (= 1.1.2-1)
+qt5-qtbase, zlib, liblzma, libbz2
+qt5-qtbase, kcoreaddons
+qt5-qtbase, shared-mime-info
+qt5-qtbase
+qt5-qtbase
+argon2, libcurl, libgcrypt, libqrencode, libsodium, libxtst, qt5-qtbase, qt5-qtsvg, qt5-qtx11extras
+libvte
+qt5-qtbase, qt5-qtx11extras
+qt5-qtbase, gettext
+chromaprint, ffmpeg, id3lib, libc++, libflac, libogg, libvorbis, qt5-qtbase, qt5-qtdeclarative, qt5-qtmultimedia, readline, taglib
+qt5-qtbase
+qt5-qtbase, qt5-qtdeclarative, qt5-qtquickcontrols2, qt5-qtsvg
+qt5-qtbase, qt5-qtdeclarative
+qt5-qtbase
+qt5-qtbase
+dbus, fontconfig, freetype, harfbuzz, libpng, librsync, libx11, libxkbcommon, littlecms, mesa (>= 22.0.3), python, zlib
+qt5-qtbase, qt5-qtx11extras, qt5-qtsvg, kwindowsystem
+qt5-qtbase, qt5-qtx11extras
+qt5-qtbase
+gtk3
+gtk2
+fluidsynth, fontconfig, freetype, libc++, libpng, libsqlite, portmidi, wxwidgets, zlib
+fribidi, glib, graphene, gtk4, libcairo, pango
+libart-lgpl (= 2.3.21-22)
+libltdl, libvorbis, gstreamer, gtk3, pulseaudio, zenity
+glib, gtk3
+libcanberra (= 0.30-5)
+qt5-qtbase
+libevdev (= 1.11.0-3)
+libx11, libxtst
+libfakekey (= 0.3-20)
+atk, glib, gtk3, libandroid-support, libcairo, libexif, libffi, libfm, menu-cache, pango, pcre
+glib, libfm-extra
+glib
+libfm-extra (= 1.3.2-4)
+qt5-qtbase, qt5-qtx11extras, glib, libxcb, libexif, menu-cache
+libfm (= 1.3.2-4)
+zlib
+libfontenc (= 1.1.4-21)
+libglade (= 2.6.4-22)
+atk, glib, gtk2, libart-lgpl, libglade, pango
+libgnomecanvas (= 2.30.3-21)
+atk, gdk-pixbuf, glib, gtk3, libcairo, pango
+qt5-qtbase, qt5-qtx11extras, kwindowsystem, libqtxdg, libxss
+qt5-qtbase, qt5-qtsvg, glib
+glib, gtk3, libxklavier
+glib, iso-codes, libxi, libxkbfile, libxml2, xkeyboard-config
+libmatekbd (= 1.25.0-5)
+libxml2, libsoup, gtk3
+libmateweather (= 1.24.1-3)
+libpciaccess (= 0.16-20)
+qt5-qtbase
+glib, gtk2
+libunique (= 1.1.6-19)
+libgcrypt, libgnutls, libjpeg-turbo, libpng, openssl
+libwayland (= 1.17.0-9)
+libxaw (= 1.0.14-2)
+libxcomposite (= 0.4.5-20)
+libxdamage (= 1.1.5-19)
+glib
+dbus, libxfce4util
+libxfce4ui (= 4.17.2)
+libxfce4util (= 4.17.1-5)
+freetype, libfontenc, zlib
+libxfont2 (= 2.0.5-1)
+libxinerama (= 1.1.4-25)
+libx11, libxau, libxcb, libxdmcp
+libxkbfile (= 1.1.0-22)
+libxklavier (= 5.4-21)
+libxmu (= 1.1.3-23)
+libxpm (= 3.5.13-18)
+libxshmfence (= 1.3-29)
+libx11, libxau, libxcb, libxdmcp, libxext
+libxxf86dga (= 1.1.5-24)
+libx11, libxau, libxcb, libxdmcp, libxext
+libxxf86vm (= 1.1.4-30)
+sdl2, freetype, liblua52
+lite-xl (= 2.0.3-1)
+atk, fontconfig, freetype, gdk-pixbuf, glib, gtk2, libandroid-shmem, libcairo, libffi, pango, pcre
+freetype, game-music-emu, libandroid-spawn, libc++, libluajit, libmodplug, libogg, libphysfs, libtheora, libvorbis, mesa, mpg123, openal-soft, sdl2, zlib
+love10 (= 0.10.2)
+dbus-glib, glib, gtk3, libx11, xsltproc
+gtk-update-icon-cache
+qt5-qtbase, qt5-qtx11extras, qt5-qtsvg, libfm-qt, libexif, libxfixes
+pcmanfm-qt, qterminal, lxqt-session, lxqt-panel, lxqt-runner, lxqt-openssh-askpass, lxqt-notificationd, lxqt-globalkeys, lxqt-config, lxqt-archiver, lxqt-about, lximage-qt, obconf-qt, lxqt-qtplugin, lxqt-themes, pavucontrol-qt
+qt5-qtbase, qt5-qtx11extras, libfm-qt, liblxqt, lxmenu-data
+qt5-qtbase, qt5-qtx11extras, qtermwidget
+qt5-qtbase, qt5-qtx11extras, qtxdg-tools, kwindowsystem, liblxqt, procps, libandroid-wordexp
+qt5-qtbase, qt5-qtx11extras, kwindowsystem, liblxqt, libsysstat, lxqt-globalkeys, libdbusmenu-qt, libxcb, pulseaudio, lxmenu-data, libxtst
+qt5-qtbase, libqtxdg, kwindowsystem, liblxqt, lxqt-globalkeys
+qt5-qtbase, liblxqt
+qt5-qtbase, liblxqt, libnotify
+qt5-qtbase, kwindowsystem, liblxqt, libx11
+qt5-qtbase, qt5-qtx11extras, liblxqt, libxcb, zlib, shared-mime-info
+qt5-qtbase, qt5-qtx11extras, libfm-qt, glib, json-glib
+qt5-qtbase, liblxqt
+qt5-qtbase, qt5-qtx11extras, glib, openbox, liblxqt, hicolor-icon-theme
+qt5-qtbase, kwindowsystem, libqtxdg, libfm-qt, libexif, libdbusmenu-qt
+hicolor-icon-theme
+qt5-qtbase, kwindowsystem, liblxqt, pulseaudio-glib
+hicolor-icon-theme
+cmake, qt5-qtbase
+qt5-qtbase, qt5-qtsvg, xcompmgr, picom
+libx11, libxcomposite, libxdamage, libxext, libxfixes, libxrender
+libx11, libxcb, xcb-util, xcb-util-image, xcb-util-renderutil, libxext, xorgproto, libpixman, dbus, libconfig, mesa, pcre, libev, uthash
+libqtxdg
+gtk3, glib
+qt5-qtbase, qt5-qtsvg, zlib, imagemagick, ghostscript, texlive-bin, hunspell
+libcanberra, glib, gtk3, zenity
+marco (= 1.24.2-4)
+libexpat, libfakekey, libpng, libx11, libxft, libxrender, libxtst, zlib
+dconf, libnotify, libxml2, glib, gtk3, mate-panel, mate-menus
+libsm, gtk3, libice, mate-desktop, mate-menus, libwnck, libmateweather
+glib
+mate-desktop (= 1.24.1-4)
+mate-menus (= 1.25.0-4)
+mate-panel (= 1.24.2-4)
+libsm, libxtst, dbus-glib, gtk3, glib
+gtk3, dbus-glib, mate-desktop
+mate-settings-daemon (= 1.24.2-6)
+libvte, dconf, gtk3, libsm
+menu-cache (= 1.1.0-26)
+libx11, mesa, libdrm, freetype, libxext, glew, freeglut
+sdl2
+atk, fontconfig, freetype, glib, gtk3, gtksourceview4, harfbuzz, libcairo, libpixman, libpng, libx11, libxcb, libxext, libxrender, pango, zlib
+mousepad (= 0.5.9)
+ffmpeg, libandroid-glob, libandroid-shmem, libarchive, libass, libdrm, littlecms, libjpeg-turbo, libcaca, liblua52, libx11, libxext, libxinerama, libxss, libxrandr, openal-soft, pulseaudio, zlib
+mtdev (= 1.1.6-20)
+atk, fontconfig, freetype, gdk-pixbuf, giflib, glib, gtk2, libandroid-glob, libandroid-shmem, libcairo, libjpeg-turbo, littlecms, pango, libpng, libtiff, libwebp, libx11, zlib
+libcap, libdns-sd, libprotobuf, openssl-1.1, qt5-qtbase
+desktop-file-utils, exo, libjpeg-turbo, libpng, gtk3, openssl, libcurl, libiconv, libwebp
+gdk-pixbuf, glib, gtk3, libcairo, libhandy-0.0, libsqlite, libxml2, openssl-1.1, pango, webkit2gtk
+pulseaudio, sdl, sdl-ttf
+freetype, sdl
+atk, fontconfig, freetype, gdk-pixbuf, glib, gtk2, imlib2, libandroid-shmem, libcairo, libglade, libice, librsvg, libsm, libx11, libxft, libxml2, openbox, pango, startup-notification
+bash, fontconfig, freetype, fribidi, gdk-pixbuf, glib, harfbuzz, imlib2, libandroid-shmem, libbz2, libcairo, libcroco, libffi, libgraphite, libice, liblzma, libpixman, libpng, librsvg, libsm, libuuid, libx11, libxau, libxcb, libxcursor, libxdmcp, libxext, libxfixes, libxft, libxinerama, libxml2, libxrandr, libxrender, pango, pcre, startup-notification, xcb-util, zlib
+libc++, qt5-qtbase, qt5-qtdeclarative, qt5-qtsvg
+coreutils, libc++, mpv, python, qt5-qtbase, qt5-qtwebkit, socat, taglib, wget
+qt5-qtbase, qt5-qtdeclarative, qt5-qtlocation, qt5-qtmultimedia, qt5-qtsensors, zlib, libxslt, libxcomposite, libhyphen, libwebp, libicu
+libx11, libxext, xorgproto
+fftw, libbz2, libc++, libcurl, liblua52, sdl2, libx11, zlib
+openbox (= 3.6.1-54)
+desktop-file-utils, fontconfig, hicolor-icon-theme, libicu, liblzma, liblzo, libpng, openttd-gfx, openttd-msx, openttd-sfx, sdl
+ffmpeg, zstd, xorgproto, libcairo, pango, sdl2, sdl2-image
+libicu, libsqlite, qt5-qtbase, qt5-qtsvg, qt5-qtxmlpatterns, qt5-qtwebkit, qt5-qtmultimedia, hunspell
+gtk3, gstreamer, gst-plugins-base, gst-plugins-bad, gst-plugins-good, gst-plugins-ugly, atk, libcairo, dbus-glib, libnotify, pango, libxfce4util, libxfce4ui, xfconf, taglib, gst-libav
+parole (= 4.16.0-5)
+atk, glib, gtk3, libandroid-shmem, libcairo, libfm, libx11, lxmenu-data, pango
+atk, binutils, bzip2, cpio, glib, gtk3, gzip, libandroid-shmem, libcairo, lzip, lzop, p7zip, tar, unrar, unzip, xz-utils, zip, zstd, zlib
+libandroid-shmem, libxcb, xcb-util
+libxcb
+gtk2, libgnutls, libidn, libsasl, libsm, libxext, libxss
+pidgin (= 2.14.9)
+libice, libpng, libsm, libx11, libxaw, libxext, libxmu, libxt, zlib
+plotutils (= 2.6-30)
+jsoncpp, pulseaudio, fontconfig, freetype, libandroid-glob, libandroid-shmem, libc++, libcairo, libcurl, libuv, libxcb, xcb-util-cursor, xcb-util-image, xcb-util-xrm, xcb-util-wm
+glib, libc++, libflac, libogg, librtmidi, libvorbis, openssl, portaudio, qcustomplot, qt5-qtbase, qt5-qtsvg, zlib
+libc++, qt5-qtbase
+glu, libc++, mesa, openssl, sdl, sdl-image
+libjpeg-turbo, libpng, libtiff, sdl, zlib
+fontconfig, freetype, glib, libc++, libcairo, libcurl, libiconv, libjpeg-turbo, libpng, libtiff, littlecms, openjpeg, openjpeg-tools, qt5-qtbase, zlib
+boost, glib, gst-plugins-bad, gst-plugins-base, gst-plugins-good, gstreamer, gtk3, gtkmm3, libbs2b, libc++, libebur128, librnnoise, libsndfile, libzita-convolver, lilv, pulseaudio
+atk, gdk-pixbuf, glib, gtk3, libandroid-glob, libandroid-shmem, libcairo, libx11, pango
+libandroid-glob
+freetype, imlib2, libandroid-shmem, libx11, libxft, python2, python2-xlib
+libx11, python2, python2-six
+python, qt5-qtbase, qt5-qtdeclarative, qt5-qtlocation, qt5-qtmultimedia, qt5-qtsensors, qt5-qtsvg, qt5-qttools, qt5-qtwebchannel, qt5-qtwebkit, qt5-qtwebsockets, qt5-qtx11extras, qt5-qtxmlpatterns
+qt5-qtbase, qt5-qtdeclarative
+qt5-qtbase, qt5-qtdeclarative
+qt5-qtbase, qt5-qtdeclarative, qt5-qtwebsockets
+qt5-qtbase, qt5-qtdeclarative
+python2
+glib, gtk3, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, libx11, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2, sdl2-image, zlib, zstd
+glib, gtk3, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, libx11, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2, sdl2-image, zlib, zstd
+glib, gtk3, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, libx11, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2, sdl2-image, zlib, zstd
+glib, gtk3, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, libx11, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2, sdl2-image, zlib, zstd
+glib, gtk3, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, libx11, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2, sdl2-image, zlib, zstd
+glib, gtk3, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, libx11, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2, sdl2-image, zlib, zstd
+glib, gtk3, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, libx11, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2, sdl2-image, zlib, zstd
+glib, gtk3, libbz2, libc++, libcurl, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libspice-server, libssh, libusb, libusbredir, libx11, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2, sdl2-image, zlib, zstd
+git, hicolor-icon-theme, qt5-qtbase
+qt5-qtbase
+qt5-qtbase, qt5-qtdeclarative, qt5-qtxmlpatterns, qt5-qttools, qt5-qtx11extras, qt5-qtsvg, llvm, clang
+qt5-qtbase, qt5-qtbase (= 5.15.3-4)
+qt5-qtbase, gtk3, qt5-qtbase (= 5.15.3-4)
+qt5-qtdeclarative, qt5-qtdeclarative (= 5.15.3-1)
+qt5-qtbase, qt5-qtdeclarative
+qt5-qttools, qt5-qttools (= 5.15.3-1)
+qt5-qtbase, qt5-qtsvg
+qt5-qtbase
+qt5-qtbase, zlib
+glfw
+libandroid-shmem, libsm, libtheora, libvorbis, libxdamage, libxext, zlib
+gtk3, libexif, libxfce4util, libxfce4ui, file
+glib, gdk-pixbuf, freetype, libpng
+libandroid-glob, libandroid-shmem, libcairo, librsvg, libxkbcommon, startup-notification, xcb-util-wm, xcb-util-xrm
+gtk3, libvte, xsltproc, pcre2, dbus-glib
+atk, gdk-pixbuf, glib, gtk3, libc++, libcairo, pango
+imlib2, libxfixes, libx11
+sdl
+sdl-gfx (= 2.0.26)
+sdl-image (= 1.2.12-20)
+sdl-mixer (= 1.2.12-16)
+sdl-net (= 1.2.8-37)
+fontconfig, freetype, glib, harfbuzz, pango, sdl
+sdl-pango (= 0.1.2)
+sdl (= 1.2.15-47)
+sdl-ttf (= 2.0.11-2)
+sdl2-image (= 2.6.1)
+sdl2-mixer (= 2.6.1)
+sdl2-net (= 2.0.1-6)
+sdl2 (= 2.0.22-2)
+sdl2-ttf (= 2.20.0)
+freetype, libc++, libflac, libogg, libvorbis, libx11, libxrandr, mesa, openal-soft
+ffmpeg, wxwidgets
+startup-notification (= 0.12-27)
+gcr, glib, gtk3, libx11, webkit2gtk
+libx11
+apt, dpkg, gtk3, atk, libvte, hicolor-icon-theme
+dbus-glib
+telepathy-glib (= 0.99.11-7)
+libwayland
+hunspell, libc++, libx11, poppler-qt, qt5-qtbase, qt5-qtdeclarative, qt5-qtsvg, qt5-qttools, quazip, texstudio-data, zlib
+desktop-file-utils, exo, hicolor-icon-theme, libexif, libnotify, libpng, libxfce4ui, libxfce4util
+gtk3, atk, libcairo, pango, exo, gdk-pixbuf, glib, harfbuzz, thunar, libxfce4util
+thunar-archive-plugin (= 0.4.0-4)
+thunar (= 4.17.7-4)
+freetype, libandroid-shmem, libbz2, libc++, libdrm, libexpat, libgnutls, libjpeg-turbo, libpixman, libpng, libuuid, libx11, libxau, libxcb, libxdamage, libxdmcp, libxext, libxxf86vm, libxfixes, libxfont2, libxshmfence, mesa, openssl, perl, xkeyboard-config, xorg-xauth, xorg-xkbcomp
+libx11, libxkbfile
+libice, libsm, libx11, libxext, libxmu, libxrandr, libxt
+fltk, fontconfig, libandroid-shmem, libc++, libgnutls, libice, libjpeg-turbo, libsm, libx11, libxcursor, libxext, libxfixes, libxft, libxinerama, libxrender, tigervnc (= 1.10.1-23)
+glib, gtk3, libvte, libconfuse, libx11, gettext
+xorg-xrandr, libxinerama, libx11, xorgproto, libandroid-glob, libandroid-shmem, pango, libc++, libcairo, libcurl, libxcb, xcb-util-cursor, xcb-util-image, xcb-util-xrm, xcb-util-wm, pulseaudio, libxcomposite, libxdamage, gtk2, imlib2, libandroid-wordexp, librsvg, startup-notification, libcairo
+libx11, libxrandr
+openssl, curl, sdl
+atk, gdk-pixbuf, glib, gtk3, libcairo, libcurl, libevent, miniupnpc, openssl, pango, zlib
+qt5-qtbase, qt5-qtsvg, librsvg, libpng, qt5-qtxmlpatterns, qt5-qtwebsockets, qt5-qtwebkit, qt5-qtwebchannel
+libc++, qt5-qtbase, qt5-qtdeclarative, qt5-qtmultimedia, qt5-qttools
+tumbler (= 4.16.0-4)
+fribidi, glib, libandroid-wordexp, libcairo, libimagequant, libpaper, libpng, librsvg, sdl, sdl-gfx, sdl-image, sdl-mixer, sdl-pango, sdl-ttf, tuxpaint-data, zlib
+atk, gdk-pixbuf, glib, gstreamer, gtk3, libandroid-shmem, libcairo, libcurl, libnotify, openssl, pango
+gdk-pixbuf, glib, gtk3, libcairo, libcanberra, libice, libiconv, liblua53, libsm, libx11, libxpm, libxt, ncurses, pango, python
+libdrm, libepoxy
+avahi, chromaprint, dbus, ffmpeg, fluidsynth, fontconfig, freetype, fribidi, gdk-pixbuf, glib, gst-plugins-base, harfbuzz, liba52, libandroid-shmem, libandroid-spawn, libaom, libarchive, libass, libbluray, libc++, libcaca, libcairo, libcddb, libdav1d, libdvbpsi, libdvdread, libflac, libgcrypt, libgnutls, libiconv, libidn, libjpeg-turbo, liblua52, libmad, libnfs, libogg, libopus, libpng, librsvg, libsecret, libsoxr, libssh2, libtheora, libtwolame, libvorbis, libvpx, libx11, libx264, libx265, libxcb, libxml2, mpg123, ncurses, pulseaudio, qt5-qtbase, qt5-qtsvg, samba, taglib, zlib
+vlc-qt (= 3.0.17.4)
+atk, c-ares, desktop-file-utils, gdk-pixbuf, glib, gtk3, hicolor-icon-theme, krb5, libandroid-shmem, libcairo, libcap, libgcrypt, libgnutls, libgpg-error, liblua52, liblz4, libmaxminddb, libnghttp2, libnl, libpcap, libssh, libxml2, pango, zlib
+wireshark-gtk (= 2.6.14-21)
+qt5-qtbase, qt5-qtsvg, qt5-qtwebkit, qt5-qtxmlpatterns, xorg-server, python
+libandroid-shmem, libdrm, libpciaccess, libpixman, libx11, libxau, libxfont2, libxinerama, libxkbfile, libxshmfence, mesa, openssl, xkeyboard-config, xorg-xkbcomp
+libandroid-shmem, libxmu, libxft, pango, libtiff, giflib, libxpm, libexif, libwebp, imagemagick
+wmaker (= 0.95.9-11)
+libc++, maxima, wxwidgets
+libandroid-shmem, libjpeg-turbo, libvncserver, libxdamage, libxinerama, libxrandr, libxtst, openssl, xorg-xdpyinfo, libxcursor, libcairo
+libx11, libxcb, libxcomposite, libxext, libxi, libxinerama, libxrender, libxtst, libxxf86dga, libxxf86vm
+libxtst
+glib, libcairo, librsvg, libx11, libxaw, libxmu, libxt, pango
+xcb-util-cursor (= 0.1.3-25)
+xcb-util-image (= 0.4.0-25)
+xcb-util-keysyms (= 0.4.0-24)
+xcb-util-renderutil (= 0.3.9-25)
+xcb-util (= 0.4.0-28)
+xcb-util-wm (= 0.4.1-25)
+xcb-util-xrm (= 1.3-26)
+libx11, libxmu
+libcairo, gdk-pixbuf, glib, gtk2, gtk3, libxfce4ui, libxfce4util, unzip
+thunar, xfce4-panel, xfce4-session, xfce4-settings, xfconf, xfwm4, xfce4-notifyd
+desktop-file-utils, exo, hicolor-icon-theme, garcon, libwnck, libxfce4ui, xfconf
+gnupg, hicolor-icon-theme, libsm, libwnck, libxfce4ui, xfce4-settings, xfdesktop, pango, xfwm4, xorg-iceauth, xorg-xrdb
+exo, garcon, libnotify, libxfce4ui, libxklavier, lxde-icon-theme, libcanberra, gtk3, gsettings-desktop-schemas
+hicolor-icon-theme, libepoxy, libwnck, libxfce4ui, startup-notification, xfconf
+atk, libcairo, gdk-pixbuf, glib, gtk3, harfbuzz, libnotify, pango, libxfce4ui, libxfce4util, xfconf, xfce4-panel
+glib, gtk3, libxfce4ui, garcon
+libxfce4ui, libxfce4util, xfce4-panel, gtk3
+xfce4-calculator-plugin (= 0.7.1-3)
+libqrencode, libxtst, xfce4-panel
+xfce4-clipman-plugin (= 1.6.2-3)
+libxfce4ui, xfce4-panel
+xfce4-datetime-plugin (= 0.8.1-4)
+glib
+gtk3, atk, libcairo, pango, harfbuzz, gdk-pixbuf, libxfce4util, libxfce4ui
+xfce4-dict (= 0.8.4-2)
+gtk3, atk, libcairo, pango, harfbuzz, gdk-pixbuf, glib, libxfce4util, libxfce4ui, xfce4-panel
+xfce4-eyes-plugin (= 4.5.1-4)
+xfce4-terminal, xfce4-appfinder, xfce4-calculator-plugin, xfce4-clipman-plugin, xfce4-datetime-plugin, xfce4-dict, xfce4-eyes-plugin, xfce4-mailwatch-plugin, xfce4-netload-plugin, xfce4-notes-plugin, xfce4-notifyd, xfce4-panel-profiles, xfce4-screensaver, xfce4-taskmanager, xfce4-timer-plugin, xfce4-wavelan-plugin, xfce4-screenshooter, xfce4-whiskermenu-plugin, thunar-archive-plugin, parole, leafpad, file-roller, galculator, ristretto, gigolo
+desktop-file-utils, exo, hicolor-icon-theme, garcon, libxfce4ui, xfconf, libvte
+glib, libxfce4ui, libxfce4util, xfce4-panel
+gtk3, atk, libcairo, pango, gdk-pixbuf, glib, libxfce4util, libxfce4ui, xfce4-panel
+atk, gtk3, glib, libcairo, gdk-pixbuf, harfbuzz, pango, libsm, libxfce4ui, libxfce4util, xfce4-panel, xfconf
+xfce4-panel, python
+atk, gtk3, garcon, libwnck, libxext, libxklavier, libxss, termux-auth, libcairo, dbus-glib, pango, libxfce4ui, xfconf
+xfce4-panel, libxmu
+atk, gtk3, glib, libcairo, gdk-pixbuf, harfbuzz, pango, libxfce4ui, libxfce4util, xfce4-panel
+gtk3, atk, libcairo, pango, gdk-pixbuf, glib, libxfce4util, libxfce4ui, xfce4-panel, harfbuzz
+exo, libcairo, gdk-pixbuf, glib, gtk3, harfbuzz, pango, libsoup, libxext, libxfixes, libxml2, libsm, libxfce4ui, libxfce4util, xfconf, xfce4-panel
+exo, garcon, gtk3, libxfce4ui, libxfce4util, xfce4-panel, xorgproto, gettext
+xfce4-mailwatch-plugin (= 1.3.0-5)
+xfce4-netload-plugin (= 1.4.0-4)
+xfce4-notes-plugin (= 1.9.0-4)
+xfce4-notifyd (= 0.6.2-4)
+xfce4-panel (= 4.16.3-18)
+gtk3, atk, libcairo, exo, pango, libice, libsm, libnotify, harfbuzz, gdk-pixbuf, glib, libxfce4util, libxfce4ui, xfce4-panel, thunar, xfconf
+xfce4-places-plugin (= 1.8.1-4)
+xfce4-screenshooter (= 1.9.9-3)
+exo, garcon, hicolor-icon-theme, libwnck, libxfce4ui, startup-notification, thunar
+libice
+libx11, libxmu
+xfce4-timer-plugin (= 1.7.1-4)
+xfce4-wavelan-plugin (= 0.6.2-4)
+xfconf (= 4.16.0-5)
+findutils, freetype, libfontenc, zlib
+libfontenc
+xorg-server (= 1.20.11-5)
+libandroid-shmem, libdrm, libpixman, libx11, libxau, libxfont2, libxinerama, libxkbfile, libxshmfence, mesa, openssl, xkeyboard-config, xorg-xkbcomp
+libx11, libxaw, libxt, xorg-fonts-75dpi | xorg-fonts-100dpi
+libx11, libxaw, libxft, libxkbfile, libxmu, libxrender, libxt
+libx11, libxrandr
+libx11, libxmu
+libx11
+libx11, libxcursor, libxmu
+libx11, libiconv
+atk, desktop-file-utils, fontconfig, freetype, glib, gtk2, hicolor-icon-theme, libandroid-shmem, libart-lgpl, libcairo, libgnomecanvas, pango, poppler, libx11, shared-mime-info, zlib
+glib, gtk3, libc++, librsvg, libsndfile, libxml2, libzip, poppler, portaudio, zlib
+qt5-qtbase, qt5-qtsvg
+libandroid-shmem, libcrypt, libice, libsm, libuuid, libx11, libxau, libxcb, libxfixes, libxdmcp, libxrandr, openssl-1.1, procps, tigervnc
+xrdp (= 0.9.16-8)
+libx11
+libandroid-shmem, libdrm, libpciaccess, libpixman, libx11, libxau, libxfont2, libxinerama, libxkbfile, libxshmfence, mesa, openssl, xkeyboard-config, xorg-xkbcomp, libwayland, libwayland-protocols, libepoxy

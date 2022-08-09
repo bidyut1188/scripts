@@ -1,0 +1,13 @@
+apt show \* | grep Package: | sed 's/Package:\ //g' > package.idx
+apt show \* | grep Version: | sed 's/Version:\ //g' > version.idx
+apt show \* | grep Maintainer: | sed 's/Maintainer:\ //g' > maintainer.idx
+apt show \* | grep Installed-Size: | sed 's/Installed-Size:\ //g' > insize.idx
+apt show \* | grep Depends: | sed 's/Depends:\ //g' > depends.idx
+apt show \* | grep Conflicts: | sed 's/Conflicts:\ //g' > conflicts.idx
+apt show \* | grep Breaks: | sed 's/Breaks:\ //g' > breaks.idx
+apt show \* | grep Replaces: | sed 's/Replaces:\ //g' > replaces.idx
+apt show \* | grep Homepage: | sed 's/Homepage:\ //g' > homepage.idx
+apt show \* | grep Download-Size: | sed 's/Download-Size:\ //g' > dosize.idx
+apt show \* | grep APT-Sources: | sed 's/APT-Sources:\ //g' > aptsources.idx
+apt show \* | grep Description: | sed 's/Description:\ //g' > description.idx
+echo "Updated successfully."

@@ -1,0 +1,362 @@
+readline-dev
+python-dev
+bash-dev
+chroot, busybox (<< 1.30.1-4)
+ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+libexpat-dev
+libpng-dev
+libzopfli-dev
+ndk-sysroot (<< 19b-3), zlib-dev
+libprotobuf-dev
+libgtest
+ffmpeg-dev
+libcrypt-dev
+openssl-tool (<< 1.1.1b-1), openssl-dev
+libusb-dev
+pcre2-dev
+brotli-dev
+zstd-dev
+liblz4-dev
+gawk-dev
+apache2-dev
+apr-dev
+apr-util-dev
+pcre-dev
+libnghttp2-dev
+libuuid-dev
+libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+dpkg-dev
+libandroid-glob-dev
+libbz2-dev
+libcurl-dev
+libgnutls-dev
+liblzma-dev
+gnupg2 (<< 2.2.9-1), dirmngr (<< 2.2.17-1)
+whatprovides
+libdb-dev
+c-ares-dev
+libxml2-dev
+ruby-dev
+assimp-dev
+libboost-python (<= 1.65.1-2), boost-dev
+liblua-dev, liblua (<< 5.3.5-6)
+file-dev
+binutils-dev
+lhasa-dev
+attr-dev
+libsndfile-dev
+make-dev
+dbus-dev
+glib-dev
+libcap-dev
+libevent-dev
+imagemagick-dev, imagemagick-x
+inotify-tools-dev
+babl-dev
+littlecms-dev
+libgit2-dev
+flex-dev
+libelf-dev
+libxslt-dev
+libllvm (<< 11.0.0-1), clangd
+libgcrypt-dev
+libidn-dev
+libsqlite-dev
+binutils
+libllvm (<< 11.0.0-1)
+subversion-dev
+libconfuse-dev
+libnl-dev
+libandroid-shmem-dev
+libedit-dev
+libarchive-dev
+btfs
+libtool-dev, libtool-static
+nodejs-current, nodejs-dev
+c-toxcore-dev
+libmsgpack-dev
+libsodium-dev
+libopus-dev
+libvpx-dev
+calcurse (<< 4.7.1-1)
+capstone-dev
+libtls
+fftw-dev
+libpulseaudio-dev, libpulseaudio
+freetype-dev
+libprotobuf-c-dev
+utf8proc-dev
+gcc, libclang, libclang-dev, libllvm-dev
+libyaml-dev
+libgmp-dev
+libmpfr-dev
+gdb-dev
+clamav-dev
+json-c-dev
+libutil-dev, libgcc, libandroid-support-dev, ndk-stl
+jsoncpp-dev
+libuv-dev
+librhash, rhash-dev
+cmark-dev
+libmad-dev
+opusfile-dev
+libflac-dev
+libvorbis-dev
+cryptopp-dev
+php-mysql, php-dev
+openssl (<< 1.1.1m)
+libjansson-dev
+libffi-dev
+liblzo-dev
+libjasper-dev
+libjpeg-turbo-dev
+libpopt-dev
+libtiff-dev
+libpcap-dev
+dnsutils-dev
+termux-auth-dev
+openssh (<< 9.0p1-1)
+dtc-dev
+leveldb-dev
+duktape (<< 2.3.0-1), libduktape-dev
+fontconfig-dev
+fribidi-dev
+graphicsmagick++, graphicsmagick-dev
+e2fsprogs-dev
+util-linux-dev
+libgc-dev
+tidy-dev
+eigen-dev
+libmicrohttpd-dev
+emacs-dev
+nodejs-current, nodejs-dev
+gsl-dev
+hunspell-dev
+espeak-dev
+exiv2-dev
+expect-dev
+tcl-dev, tcl-static
+libass-dev
+libmp3lame-dev
+libsoxr-dev
+libwebp-dev
+libx264-dev
+libx265-dev
+xvidcore-dev
+finch-dev
+libsasl-dev
+libcairo-dev, libcairo-gobject
+fwknop-dev
+gpgme-dev
+gap-dev
+gdbm-dev
+mbedtls-dev
+gdal-dev
+openjpeg-dev
+proj-dev
+libgeos-dev
+postgresql-contrib (<= 10.3-1), postgresql-dev
+netcdf-c-dev
+gdk-pixbuf-dev
+gegl-dev
+json-glib-dev
+librsvg-dev
+gettext-dev
+libcroco-dev
+libunistring-dev
+gflags-dev
+giflib-dev
+gnucap-dev
+libassuan-dev
+libgpg-error-dev
+libksba-dev
+libnpth-dev
+gnupg (<< 2.3.3-2)
+gnuplot-x
+libgd-dev
+pango-dev
+findimagedupes
+google-glog-dev
+graphviz-dev
+gstreamer-dev
+gst-plugins-base-dev
+gst-plugins-bad-dev
+libssh2-dev
+openal-soft-dev
+libmesa
+libcaca-dev
+libsoup-dev
+libogg-dev
+guile-dev
+guile18-dev
+harfbuzz-dev
+libgraphite-dev
+libicu-dev
+libpixman-dev
+hoedown-dev
+htop-legacy
+libidn2-dev
+htop
+httrack-dev
+miniupnpc-dev
+taglib-dev
+libid3tag-dev
+iperf3-dev
+irssi-dev
+libotr-dev
+iverilog-dev
+jbig2dec-dev
+leptonica-dev
+yajl-dev
+jq-dev
+kbfs
+keystone-dev
+krb5-dev
+ldns-dev
+ledger-dev
+libbsd-dev
+libburn-dev
+libcln-dev
+libcoap-dev
+libconfig-dev
+libcue-dev
+libzmq-dev
+libev-dev
+libexif-dev
+libgfshare-dev
+libgmime-dev
+libnettle-dev
+libgrpc-dev
+libgsasl-dev
+libhdf5-dev
+libical-dev
+libisl-dev
+libisoburn-dev
+libisofs-dev
+liblua52-dev
+liblua-dev
+libluajit-dev
+libmaxminddb-dev
+libmcrypt-dev
+libmesode-dev
+libmhash-dev
+libmnl-dev
+libmosquitto-dev
+libwebsockets-dev
+libmp3splt-dev
+libmpc-dev
+libmpdclient-dev
+libnfs-dev
+libnftnl-dev
+liboggz-dev
+libopencore-amr-dev
+libopenfec-dev
+libopusenc-dev
+libpipeline-dev
+libpsl-dev
+libqrencode-dev
+librsync-dev
+libsearpc-dev
+libseccomp-dev
+libsigsegv-dev
+libsixel-dev
+libssh-dev
+libtalloc-dev
+libtermkey-dev
+libunibilium-dev
+libtins-dev
+libvterm-dev
+wren-dev, wren (<< 0.3.0)
+libxapian-dev
+libzip-dev
+lldb-dev, lldb-static
+lua (<< 5.3.5-6)
+make-dev
+linux-man-pages
+mapserver-dev
+mariadb-dev
+memcached-dev
+mosh (<< 1.3.2-37)
+mosh, mosh-perl
+notmuch-dev
+tesseract-dev
+sc
+netpbm-dev
+newsbeuter
+stfl-dev
+netcat
+o
+oathtool-dev
+xmlsec-dev
+ocrad-dev
+openbabel-dev
+openmpi-dev
+x11-proto
+openldap-dev
+ossp-uuid-dev
+parted-dev
+poppler-dev
+povray (<< 3.8.0-beta.2-2)
+procps-dev
+profanity-dev
+speexdsp-dev
+python2-dev
+qalc-dev
+qemu-system-x86_64-headless
+qemu-user-x86_64
+qpdf-dev
+radare2-dev
+rtmpdump-dev
+rxfetch-termux
+seafile-client-dev, ccnet
+serf-dev
+smalltalk-dev
+sox-dev
+talib
+teckit-dev
+texlive (<< 20170524-3), texlive-bin-dev
+texlive
+unicorn-dev
+valac-dev
+valgrind-dev
+vt-cli
+weechat-dev
+xcbproto
+yara-dev
+yasm-dev
+zbar-dev
+lfortran
+libllvm-10, clang-10, lld-10
+libllvm (<< 11.0.0-1)
+libsdl2
+libgtk3
+qt5-base
+qt5-x11extras
+libatk
+xterm
+dbus-glib-dev
+libgtk2
+libglu
+libsdl
+libsdl-net
+emacs
+webkit, webkitgtk
+libexo
+qt5-tools
+fontforge
+libgarcon
+pinentry
+qt5-declarative
+libfm-extra
+mpv
+poppler, poppler-dev
+qemu-system-x86_64, qemu-system-x86_64-headless, qemu-system-x86-64-headless
+telepathy-glib-dev
+transmission
+vlc
+tshark, wireshark, wireshark-cli
+xfce
+xorg-mkfontdir
+xorg-xvfb
+xclock
